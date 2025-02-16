@@ -1,0 +1,79 @@
+<link
+  rel="stylesheet"
+  href="https://hopstackcdn.prod.hopstack.io/DemoForm_Styling1_ScheduleDemoPage.css"
+/>
+<script
+  charset="utf-8"
+  type="text/javascript"
+  src="https://js-eu1.hsforms.net/forms/embed/v2.js"
+></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "24887142",
+    formId: "f9bee109-ab1d-4244-8b4d-bf49a0cd81c6",
+    onFormSubmit: function (a) {
+      var i;
+      [
+        "United States",
+        "Brazil",
+        "Mexico",
+        "Colombia",
+        "Argentina",
+        "Canada",
+        "Peru",
+        "Venezuela",
+        "Ecuador",
+        "Guatemala",
+        "Bolivia",
+        "Haiti",
+        "Cuba",
+        "Dominican Republic",
+        "Anguilla",
+        "Antigua and Barbuda",
+        "Aruba",
+        "Bahamas",
+        "Barbados",
+        "Belize",
+        "Bermuda",
+        "Bolivia",
+        "British Virgin Islands",
+        "Caribbean Netherlands",
+        "Cayman Islands",
+        "Chile",
+        "Colombia",
+        "Costa Rica",
+        "Cura\xe7ao",
+        "Dominica",
+        "Dominican Republic",
+        "El Salvador",
+        "Falkland Islands",
+        "French Guiana",
+        "Greenland",
+        "Grenada",
+        "Guadeloupe",
+        "Guatemala",
+        "Guyana",
+        "Honduras",
+        "Jamaica",
+        "Martinique",
+        "Nicaragua",
+        "Panama",
+        "Paraguay",
+        "Peru",
+        "Puerto Rico",
+        "Saint Kitts and Nevis",
+        "Saint Lucia",
+        "Saint Martin",
+        "Saint Pierre and Miquelon",
+        "Saint Vincent and the Grenadines",
+        "Suriname",
+        "Uruguay",
+        "Trinidad and Tobago",
+      ].includes(a.find("select[name*='country_dropdown']").val())
+        ? (window.location.href =
+            "https://www.hopstack.io/meeting-link/na-latam")
+        : (window.location.href = "https://www.hopstack.io/meeting-link/row");
+    },
+  });
+</script>
