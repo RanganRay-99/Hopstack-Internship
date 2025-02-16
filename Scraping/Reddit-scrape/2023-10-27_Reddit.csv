@@ -1,0 +1,1648 @@
+subject,title,datetime,url,num_comments,body
+shopify,A Guide to Prevent Fraudulent Chargebacks with Shopify Payments [2FA],2023-09-20,https://www.reddit.com/r/shopify/comments/16nq45q/a_guide_to_prevent_fraudulent_chargebacks_with/,41,"I've found the most simple and effective method to stop scammers and prevent fraudulent chargebacks. This guide is made for anyone running a Shopify store and using Shopify Payments. 
+
+It takes a minute to set up and it saved me thousands in chargebacks and product costs.
+
+✅️ **Setup guide:**
+
+1. Open your Shopify Dashboard
+2. Click on ‘Settings’
+3. Click on ‘Payments’
+4. Click on ‘Manage’ for Shopify Payments
+5. Scroll down until you find the 'Customer Billing Statement' section
+6. Add your ‘Company Name’ + 'Number Code' in the Customer Statement Descriptor. For example 'SP \* Ecom Zone 8426'
+7. Update this code occasionally
+
+✅️ **How it works:**
+
+For any medium/high-risk orders, email the customer and ask them to verify the number code that shows up on their bank statement. In the example above, the customer would have to provide the code: 8426. Place this order on hold until they verify your unique 4-digit code.
+
+Most scammers will only have the stolen credit card details and will not have access to the cardholders' bank account to verify this code.
+
+If they cannot verify this 4-digit code even after you help them locate it, then simply cancel the order.
+
+If the customer provides this 4-digit code and still opens a chargeback after processing their order, then it is very likely that you will win as long as you provide the bank with all of the evidence.
+
+&#x200B;
+
+**✅️ Use cases**
+
+1. Medium-risk orders
+2. High-risk orders
+3. Multiple payment attempts
+4. The billing address doesn't match the credit card details
+5. The customer is shipping to another address with a different name
+6. High-value orders
+7. High-risk internet proxy used to place the order
+8. The cardholder's name provided does not match the name on the shipping address"
+shopify,Advice on shopify website,2023-10-27,https://www.reddit.com/r/shopify/comments/17h6vl0/advice_on_shopify_website/,13,"Hi Ya'll!
+
+I just started my business a couple months ago selling handmade leather golf goods online. Im slowing building my Instagram and have received a couple of orders. I  also have an etsy store that gets decent traffic and a few orders a week.
+
+&#x200B;
+
+Im learning how to make my own shopify and have gotten \~500 views on my website but no orders. I was wondering if any shopify gurus can check out my website and give me some feedback?
+
+&#x200B;
+
+[www.teetimeleather.com](https://www.teetimeleather.com) is my website. Would really appreciate any help to build and grow the website. "
+shopify,Evaluation of Shopify,2023-10-27,https://www.reddit.com/r/shopify/comments/17hdnp1/evaluation_of_shopify/,1,"I am in the process of evaluating different platforms as a possible replacement for what we currently have.
+
+We run SAP Commerce Cloud today.  We roughly do about 300 orders on a daily average with an AOV of 1750$ 
+
+Looking to expand our business to include b2b, DTC, b2c etc as well as to support our operations not only in NA but EMEA as well.
+
+Is this in Shopify wheel house?
+
+Any ref to additional reading material would be appreciated"
+shopify,Admin Order page: Notes vs Comments?,2023-10-27,https://www.reddit.com/r/shopify/comments/17h5grv/admin_order_page_notes_vs_comments/,3,"In the order details page of the admin, there is a place to enter notes (top right) and another to enter comments (timeline).
+
+What's the difference between these 2? Can customers see Notes entered by staff? (I know customers can't see Timeline Comments)
+
+To muddy the waters: I can't find a way to enter comments into the timeline from the Android Admin app.
+
+My goal is to find a place where packers can enter box dims from the packing floor, so someone else can issue the shipping labels."
+shopify,Payments not being added to payouts,2023-10-27,https://www.reddit.com/r/shopify/comments/17h5gse/payments_not_being_added_to_payouts/,7,"Until 2 weeks ago, on every order’s timeline I could see a notification like “X amount will be added to your payout” right after the order has been paid. I am using Shopify payments as my ONLY payment gateway.
+
+Now, for the last 6-7 orders that notification didn’t show up anymore, and the payment does not even show up in the “transactions” tab, let alone in the payout balance. I am really concerned about this.
+
+I have contacted Shopify support twice, first time I was told to simply wait, but I’ve been waiting for 2 weeks already. The second time I was told I will receive an email from the Shopify payments team, but it’s been almost 3 days and I haven’t received any email.
+
+I am worried because I have no idea what happens with the funds of those orders or if I will receive them on the next payout (or ever really). 
+
+The customer paid, but that transaction doesn’t appear anywhere. It only says it’s been processed in the order timeline, but I get no transaction number and no payout date as I would usually do.
+
+I had hundreds of orders but this never happened. Did anyone experience the same thing?"
+shopify,Plugin to put names on certificates and sell as PDFs,2023-10-26,https://www.reddit.com/r/shopify/comments/17h0bme/plugin_to_put_names_on_certificates_and_sell_as/,5,"Hello community.  
+Do you know if there is a plugin that can put names entered by customers onto PDF documents/certificates to sell?
+
+&#x200B;"
+shopify,Sharing store,2023-10-27,https://www.reddit.com/r/shopify/comments/17h4ip9/sharing_store/,4,what is the best way to promote a new store that has just launched
+shopify,how to manage shipping from and to customer,2023-10-27,https://www.reddit.com/r/shopify/comments/17h3pad/how_to_manage_shipping_from_and_to_customer/,2,"Example: ecommerce that offers shoes customization.
+
+The customer needs to send to me his shoes and, afterwards, I send back to him his customized shoes.
+
+Could you suggest me some easy way to implement this shipment on my store?"
+shopify,Change Product Title Text COLOR on Dawn 11 ??,2023-10-26,https://www.reddit.com/r/shopify/comments/17h0npp/change_product_title_text_color_on_dawn_11/,5,"Hi all.
+
+Anyone know of an easy way to change the **color** of the **text** for the **Product Title**?
+
+If it matters, this is for **Dawn 11.0**
+
+EDIT - While I'm at it, how do we change the text color for Product Titles on the **HOMEPAGE**?
+
+Thanks!"
+shopify,Incentives / Negotiate for Shopify Plus?,2023-10-27,https://www.reddit.com/r/shopify/comments/17h82zn/incentives_negotiate_for_shopify_plus/,1,"We are looking at signing up to shopify plus and I was wondering if anyone else has done so recently and been able to negotiate any incentives. 
+
+In our first conversation they offered one month free but has anyone else been able to get any other incentives? Thanks!"
+shopifyappstore,IMO The Best Post-Purchase Upsell App,2023-10-27,https://www.reddit.com/r/shopifyappstore/comments/17hbvnq/imo_the_best_postpurchase_upsell_app/,0,"Ppl have been asking about upsell apps lately, so I decided to share some personal findings
+
+I've tested numerous post-purchase upsell apps, and they were either: lacking customization, not providing a 1-click buy post purchase. (without the need to re-enter payment information), or overpriced.
+
+After a long digging, I've discovered an optimal app for this very specific purpose: to provide post-purchase upsells, and as of Jan 14th it made me an additional $715.21 [As of today (approx. 3 weeks of use)](https://ibb.co/SnfwGqx)
+
+**How it works?** **1)** After your client submits an order they'll be shown your upsell #1 offer which can have up to 6 products, and add any of those products to their order **without** filling our their payment information. (1-click buy)
+
+**2)** If your client accepts the upsell #1 offer, they'll be shown upsell #2 (also up to 6 products). If they decline, a downsell offer will be shown (with a slightly larger discount, but that's your choice of preference).
+
+**3)** You also get a chance to customize the order confirmation page (**Thank You Page**), so **every time** the client clicks on their order from the confirmation email, they'll see the products you have selected with the discount given.
+
+The best part is they have a **free plan** if you get under 50 orders in 1 month, which would be great for folks that are just starting out in E-Commerce.
+
+There's a lot more.  I've made a video to show its features and the final look. Feel free to check it out. Here's the link [Video Showing the app's features](https://www.youtube.com/watch?v=0L5cvZT0wXw&ab_channel=DmytroCommerce)
+
+Also, the support team is top notch. Their devs implemented **7** small changes specifically for my store in a timely manner.
+
+[Link to the App in Shopify Store](https://start.aftersell.app/join?via=app) (that made me an additional $715.21 after 3 weeks of use)
+
+Hope this will help someone. Have a great day!"
+shopifyappstore,Shopify vs. Prestashop - Choosing Your Ecommerce Tech Decision for 2024,2023-10-04,https://www.reddit.com/r/shopifyappstore/comments/16zk117/shopify_vs_prestashop_choosing_your_ecommerce/,1,"The article explores the technical aspects of two leading ecommerce platforms – Shopify and Prestashop, assessing their unique features, advantages, and potential drawbacks to help you make an educated choice: [Shopify vs. Prestashop Ecommerce Platforms](https://inter-soft.com/2023/09/28/making-a-technologically-informed-decision-for-2024/)"
+shopifyappstore,Updates To EasyRoutes Local Delivery App - September 2023,2023-10-02,https://www.reddit.com/r/shopifyappstore/comments/16y1ok6/updates_to_easyroutes_local_delivery_app/,0,"Here's some updates we've made in the past month to EasyRoutes & the EasyRoutes Delivery Driver app:
+
+https://preview.redd.it/jxdvrhz1jtrb1.png?width=1858&format=png&auto=webp&s=5e9d720274c36200fd5c7a26245a1b0a597c092a
+
+**🎛️ New Feature: EasyRoutes Dashboard**
+
+Opening EasyRoutes now lands on the Dashboard, providing quick access to common actions and a summary of your recent EasyRoutes activity.  Complete the setup guide, create empty routes, access your orders, and view recently created or completed routes - all from one convenient landing page:
+
+https://preview.redd.it/j942wk83jtrb1.png?width=1648&format=png&auto=webp&s=0c5f029fd4aac79f05f9c42fe9ce207c06a69fd2
+
+Stay tuned for future updates to the Dashboard as we add more information and shortcuts to help streamline your deliveries!
+
+&#x200B;
+
+**☕️ New Route Option: Driver Breaks**
+
+We've added a new route option that allows you to schedule custom blocks of time for your drivers to take a break between delivery stops:
+
+https://preview.redd.it/9p9dftb4jtrb1.png?width=1006&format=png&auto=webp&s=b48f17a22c05a1ffca7fb592be647dcd49731a57
+
+Driver breaks can be enabled or disabled from the [Route Options](https://click.mailerlite.com/link/c/) page for new and existing routes. Route Scheduling must also be enabled in order to properly assign a time slot for driver breaks.
+
+**Note**: Drivers will need to update to the latest version (1.0.29 or above) of the [EasyRoutes Delivery Driver App](https://click.mailerlite.com/link/c/) in order to view breaks within their routes. 
+
+&#x200B;
+
+**🛒 Orders Page Updates**
+
+We've updated the Orders page and Add Orders tab to speed up route creation and provide more details at a glance.  When any orders are selected, the **Add orders to map** button now remains visible on screen, floating in the same position as you scroll through the page:
+
+https://preview.redd.it/td2vz0l5jtrb1.png?width=2006&format=png&auto=webp&s=f1f48f53a0305011f754b1492012ee7c413852b5
+
+Once an order has been added to the map, its checkbox will convert into a green checkmark, like #1020 shown below. Hovering over the green checkmark will change it into a delete icon, like #1021 shown below; click this to remove the stop from the map:
+
+https://preview.redd.it/li3zgjh6jtrb1.png?width=1638&format=png&auto=webp&s=9155baf21f599a64476e438bcc8287810b23f16a
+
+Missing an order? Scroll to the bottom of the orders table to identify how many orders were fetched based on any applied [filters](https://click.mailerlite.com/link/c/). Click the time period to jump to your EasyRoutes settings and adjust how far back orders should be fetched from:
+
+https://preview.redd.it/del6r6i7jtrb1.png?width=1898&format=png&auto=webp&s=2147fb510c1863e30d8ff54cd59ded3a98d11ddd
+
+For completed routes or routes in progress, we've added a series of icons under the **Proof** column for each stop to indicate which Proof of Delivery items have been captured:
+
+https://preview.redd.it/0qp2ead8jtrb1.png?width=2764&format=png&auto=webp&s=0e98751466af16de2157ad204f4272d18dbaa644
+
+Click on any available icon to open the Proof of Delivery panel and view photos, eSignatures, driver notes and GPS delivery locations attached by your driver.
+
+&#x200B;
+
+**📖 Improvements to Address Book & Order Imports**
+
+We've adjusted the Address book to simplify order import and saved stop workflows. You can now click the dropdown arrow next to the Address book button and click **Import and add orders** to bypass the Address book panel and jump directly to the Import CSV page:
+
+https://preview.redd.it/enzjdie9jtrb1.png?width=740&format=png&auto=webp&s=c01ab51ed3bc93bee128da40cb4fd82da202c24c
+
+Once your CSV file has been processed, you can now opt to **Import and add stops to map** to complete your import and add all stops directly to the map:
+
+https://preview.redd.it/cz1hzkiajtrb1.png?width=1652&format=png&auto=webp&s=1aae91028eeecd36f94af6153b4c0d7372fb408c
+
+Imported custom stops also now contain three additional data variables: **Time window**, **Stop time**, and **Stop note.** All three of these variables are saved in the Address book entry for a stop, and will persist for any future routes that include this stop.  
+
+
+**📱 EasyRoutes Delivery Driver 1.0.29**
+
+EasyRoutes Delivery Driver has been updated to version 1.0.29, featuring support for the new driver breaks feature, enhancements for manual geocoding, and improvements to items & fulfillment workflows. The update also includes various UI improvements and bug fixes, and further enhances device authentication and user login on both the iOS & Android versions of the EasyRoutes Delivery Driver app.
+
+We hope this latest round of updates helps make your deliveries even easier on Shopify!"
+shopifyappstore,The Benefit Of Using A Marketplace Integrator - Guide & Tools,2023-09-23,https://www.reddit.com/r/shopifyappstore/comments/16pzcze/the_benefit_of_using_a_marketplace_integrator/,0,"The guide shows how a marketplace integrator  simplifies the selling process, increases efficiency, and expands the reach of businesses: [What Is The Benefit Of Using A Marketplace Integrator?](https://toolecommerce.com/2023/08/12/what-is-the-benefit-of-using-a-marketplace-integrator/) -  it compares the following tools in this niche:
+
+* Amazon Market Tool (AMT)
+* Amazon Click & Collect
+* Lightspeed eCom
+* ChannelSale
+* Codisto Amazon, eBay & Walmart
+
+It shows how that helps e-commerce businesses sell their products or services on multiple online marketplaces. It provides a central hub for inventory management, product listings, orders, pricing, and other tasks across various marketplaces."
+shopifyappstore,How can apps be effectively utilized to achieve the goal?,2023-09-20,https://www.reddit.com/r/shopifyappstore/comments/16nir8i/how_can_apps_be_effectively_utilized_to_achieve/,0,"I have noticed that many new sellers on Shopify are facing difficulties in building an attractive website, retaining customers, and increasing sales. I am also researching this issue.
+
+In my role involving interactions with store owners and management, I have examined several stores and identified two common situations:
+
+Firstly, some stores are not using any apps or not using enough necessary apps to establish credibility and professionalism. These stores often appear dull unless they have exceptionally beautiful and captivating designs.
+
+Secondly, there are stores that use too many support tools without careful selection. They have constant pop-ups, multiple unused apps, subscription boxes, live chat, and more. In my opinion, using too many apps can make a store cluttered and chaotic, causing discomfort for customers and reducing the likelihood of return visits, thus hindering the purchasing process.
+
+These are my general observations, but I have yet to find a solution to this problem and have a few questions:
+
+\- How many apps are sufficient for a store?
+
+\- Which apps are necessary for a new store?
+
+\- How can apps be effectively utilized to achieve the same goal: increase revenue and minimize costs for the store?
+
+I am currently struggling with this issue and would appreciate your insights and opinions..."
+shopifyappstore,How a third-party logistics company used Blaze no-code platform as a way of tracking inventory that could integrate with Shopify,2023-09-18,https://www.reddit.com/r/shopifyappstore/comments/16lvc00/how_a_thirdparty_logistics_company_used_blaze/,0,"The following use case shows how a third-party logistics company that warehouses and ships products for e-commerce used Blaze no-code platform to build their entire inventory management system fully integrated with Shopify: [Blaze x Shipdudes - A Comprehensive Inventory Management System](https://www.blaze.tech/inventory-management-app-case-study)
+
+The system allowed to seamlessly integrate with all of customer's Shopify stores and automated the inventory counting process, so they can now automatically track all inventory components for all their clients on one dashboard. It also allowed to easily add new products, track restock shipments, and manage Shopify SKUS.
+
+[2-min Video Demo](https://www.youtube.com/watch?v=BoskpuUkRzw)"
+shopifyappstore,Top Shopify Apps for Orders and Shipping,2023-09-12,https://www.reddit.com/r/shopifyappstore/comments/16glrdl/top_shopify_apps_for_orders_and_shipping/,8,"Setting up a new Shopify store is an exciting venture, but it requires careful planning and the right tools to succeed in today's competitive e-commerce landscape. 
+
+Shopify apps offer a wide range of functionalities that can enhance your store's performance, streamline operations, and boost sales ...
+
+***Check out our blog for insights on which apps can enhance your sales performance!***"
+shopifyappstore,Updates To EasyRoutes Local Delivery App - August 2023,2023-09-09,https://www.reddit.com/r/shopifyappstore/comments/16dj7zu/updates_to_easyroutes_local_delivery_app_august/,0,"Here's some updates we've made in the past month to EasyRoutes & the EasyRoutes Delivery Driver app:
+
+https://preview.redd.it/06bdkk9wx2nb1.png?width=631&format=png&auto=webp&s=ea7361ed27b356362e3964d811a58d71712dc03d
+
+**📖 New Feature: Address Book**
+
+The [address book](https://click.mailerlite.com/link/c/) lets you manage your frequently used custom stops in EasyRoutes. Create address book entries with customer names, addresses, and manual items and you'll be able to easily add them to your new and existing routes.
+
+The address book is accessible for planning new routes from the main **Orders** screen, as well as the **Add orders** tabs on Route and Group pages to add to your existing routes:  
+
+
+https://preview.redd.it/u5g8fxx8y2nb1.png?width=1488&format=png&auto=webp&s=61a8f929f76c25a73eade2bf503b49842f7d56f8
+
+Within the address book dialog, you can add and edit entries, then use the checkbox(es) to select one or more and add to your route.
+
+💡 **Pro-tip:** Frequently used address book entries can be pinned to the top of the address book by clicking the star icon to the left of an entry's name.  If you have an address book with many entries, use the search bar to find exactly what you need.  
+
+
+**💾 Updates to CSV Import Workflows**
+
+We've relocated the **Import CSV** button and all associated functionality into the **Import history** tab of the new address book feature.
+
+From the address book panel you can import new CSV files containing custom stop data, and view any previous CSV imports and the stop data they contain:
+
+https://preview.redd.it/rce0yncay2nb1.png?width=631&format=png&auto=webp&s=787d11166ac40a9fd47a5d2b12fd2e353d44d2b4
+
+For more detailed information on CSV file formatting and importing custom stop data into EasyRoutes using the [address book](https://click.mailerlite.com/link/c/), check out this [support article](https://click.mailerlite.com/link/c/).  
+
+
+**🗓️ Improvements to Partial & Scheduled Fulfillments**
+
+We've increased the level of detail and user control for orders and stops that have partial fulfillments, which can be particularly useful for orders that ship from different warehouse locations, or scheduled fulfillments (such as subscription orders) that will be delivered on any future date(s). 
+
+Once a route is created with a stop that contains a partial fulfillment, from the route page, all fulfilled and unfulfilled items included in that stop can be viewed by clicking the dropdown arrow in the Items column for that stop:
+
+https://preview.redd.it/tzzdpwqby2nb1.png?width=2386&format=png&auto=webp&s=2253df1112a1efc38fe66b5bb5465324a0508f8e
+
+By clicking Actions > Edit stop and scrolling down to the stop's Advanced options settings, you can see which portion(s) of the order have already been fulfilled, and select any/all remaining items to be included in this stop's current fulfillment. You can also view each item's fulfillment location to determine which warehouse location the items are shipping from:
+
+https://preview.redd.it/6up30d1dy2nb1.png?width=1252&format=png&auto=webp&s=542f6db9f07a37c367c5bc34dff729f3c5713501
+
+Once the stop has been fulfilled (depending on your [EasyRoutes fulfillment settings](https://click.mailerlite.com/link/c/), this may be manually triggered, or when a particular delivery status is applied to the order) the order page will now display any remaining unfilfilled items, and a breakdown of each past fulfillment, which items they contained, and which location they were fulfilled from:
+
+https://preview.redd.it/5vhpnwkey2nb1.png?width=1302&format=png&auto=webp&s=c9ada48babaeb300736eac88007401f9d86162c7
+
+**⚠️ Address Accuracy Warning**
+
+We've added a warning message when EasyRoutes is unable to find an exact match for a stop's address, often due to a typo or incorrect information entered in a customer's address field(s).
+
+When applicable, the warning will display as a bubble on the stop's entry within a route, and as a banner at the top of the stop's Edit Stop page.
+
+https://preview.redd.it/s6hg5gtfy2nb1.png?width=1639&format=png&auto=webp&s=ccbf9c4329dfa0962ab3f4f8051bcb91ef6451a0
+
+https://preview.redd.it/w0g4923hy2nb1.png?width=2054&format=png&auto=webp&s=9abf026ce111bc883bb4d4b03a2f9acb96f5a68e
+
+**📱 EasyRoutes Delivery Driver 1.0.28**
+
+EasyRoutes Delivery Driver has been updated to version 1.0.28 with various improvements and bug fixes. You can now require drivers using the app to add a note before they are able to mark an order as delivered.  We've also improved iOS support for navigating with Google Maps when offline or experiencing limited network connectivity, and enhanced device authentication and user login on both the iOS & Android versions of the EasyRoutes Delivery Driver app.  
+
+
+**Other product updates**   
+***(👀 there's some good stuff in here!)***
+
+Here are more improvements that we've made to EasyRoutes:
+
+* Filter by orders that have an “On Hold” fulfillment status
+* Select all routes for exporting data
+* 5-digit ZIP code filters now include 9-digit ZIP code results
+* Improved UI for time windows on a route (e.g. see when time windows are not being used)
+* Improved [time zone](https://click.mailerlite.com/link/c/) support to allow users to see a route's ETAs by the scheduled route’s time zone
+* Exporting stops now optionally includes the end location, when present
+* Ability to set a default sort option and direction for the Routes page
+* Various bug fixes and usability improvements
+
+We hope this latest round of updates helps makes your deliveries even easier on Shopify!"
+shopifyappstore,Updates To EasyRoutes Local Delivery App - June/July 2023,2023-08-08,https://www.reddit.com/r/shopifyappstore/comments/15lmtd2/updates_to_easyroutes_local_delivery_app_junejuly/,0,"Here's some recent updates we've made to [**EasyRoutes Local Delivery**](https://apps.shopify.com/easyroutes) to help streamline your deliveries on Shopify:
+
+## New Route Options Page
+
+https://preview.redd.it/qkvht4ftvwgb1.png?width=1948&format=png&auto=webp&s=7a1447c3dcd13596cffcad666fd1d7e90aca8269
+
+We've moved our [route options](https://support.roundtrip.ai/article/151-route-options) to a new, more configurable Route Options page. To change your options from the Orders page, click on the ""Add/Edit Options"" button under the map.
+
+https://preview.redd.it/2xevjrsvvwgb1.png?width=2466&format=png&auto=webp&s=49f69372c10f321314ef774acd6d161f4f73f153
+
+To change your route options when viewing a route, click on the Action menu under the map and select ""Edit route options"" at the top of the list.
+
+https://preview.redd.it/ic7ir2yxvwgb1.png?width=2568&format=png&auto=webp&s=c27f74e24023ee6ef2987bc637013edc46c22d94
+
+Set different start and end points, maximum items, weights and more to tailor your routes according to your specific needs and preferences.
+
+💡 **Pro-tip:** Click the star in the upper right hand corner of any option's panel to bookmark your favourite options and pin them to your order and route pages for quicker access!
+
+## Delivery Location Tracking
+
+Delivery location tracking is now available on Premium plans! You can view the GPS location of deliveries made by your drivers to confirm delivery accuracy. Tracked locations are available for review alongside any Photo Proof of Delivery & eSignature images from each stop's ""Proof"" panel when viewing your routes.  Drivers must be using the latest version of EasyRoutes Delivery Driver to access this feature.
+
+https://preview.redd.it/cvo3w200wwgb1.png?width=1260&format=png&auto=webp&s=e1f338559bd6609e7a6a8daaef474c98c5c67156
+
+## EasyRoutes Delivery Driver 1.0.26
+
+EasyRoutes Delivery Driver has been updated to 1.0.26 with various improvements and bug fixes. Dispatch messages are now delivered via push notifications when sharing a route for a better and more reliable experience, and URLs shared in notes can be opened as links in the browser for sharing information with your drivers.
+
+## Instant Edit Mode on Routes
+
+We've removed the Edit button when viewing a route. You can still edit your routes the same way you used to, but you don't have to click a button to enter edit mode first now!
+
+## Other Product Updates (👀 there's some good stuff in here!)
+
+Here are more improvements that we've made to EasyRoutes:
+
+* Packing Lists: added settings to display the total count of items and total price for the order on packing slips, along with new options for where to display any notes.
+* Tracking Pages: added the ability to hide timestamps and show only dates.
+* You can now include non-shippable items in EasyRoutes. Check ""Include non-shippable items"" under Settings -> General -> Fulfillment items
+* We've made it easier to update orders on a route before fulfilling or dispatching
+* Filter orders by state or city
+* Filter orders by custom order date ranges, and by orders that do not have a collected delivery date in the Delivery Date filter
+* Improvements to filtering orders by tags (can now include **and** exclude by tags)
+* Order dates for imported orders are now better supported
+* Various bug fixes and usability improvements
+
+### 📦 We're here to support you and your deliveries
+
+We hope this latest round of updates helps make your deliveries even easier on Shopify!"
+shopifyappstore,Help…looking for an app to help me,2023-06-23,https://www.reddit.com/r/shopifyappstore/comments/14gmt09/helplooking_for_an_app_to_help_me/,0,"Is there an app that plugs in static banners to the website? I have banner images from our old website but they don’t stretch across the screen, not without editing coding. We figured out how to make it stretch across a desktop size, but then it messes up in mobile mode. Is there an app that will automatically size a banner image to the screen? I just don’t want to deal with coding, shopify is supposed to be user-friendly for us who don’t know how to code. I am aware I could hire someone, I’m just trying to see if there’s something efficient"
+FulfillmentByAmazon,/r/FulfillmentByAmazon has a Discord! Join it!,2020-11-04,https://www.reddit.com/r/FulfillmentByAmazon/comments/jnp2vp/rfulfillmentbyamazon_has_a_discord_join_it/,37,"General channels are open to everyone. Those with a 500k+ verified flair get access to the verified channel.
+
+Invite: https://discord.gg/VcRZTsS"
+FulfillmentByAmazon,3 ways joining the Discord helped my FBA journey.,2022-07-14,https://www.reddit.com/r/FulfillmentByAmazon/comments/vyelj4/3_ways_joining_the_discord_helped_my_fba_journey/,34,"Hi everyone, I started my FBA business in December of 2020. It's a small but growing health and beauty brand, roughly $125k revenue in the trailing twelve months.
+
+Joining the AmazonFBA Discord was one of the better decisions I've made, and I invite you to consider joining as well as it's a valuable resource for me. Here are my top three reasons you should join:
+
+1. **The community**. My friends and family don't sell on Amazon or do e-commerce and I felt for a long time the desire to have community that is dedicated to the same thing I'm working on. The Discord gives me that. It's weird (maybe a little sad LOL) but I consider some of the members there to be my friends. 
+2. **Direct/Point Blank Feedback**. Let's face it. This industry has a lot of passersby who are curious but don't actually intend on doing the work. This has caused Amazon Sellers to be very direct in their advice and feedback. This can be very beneficial. If you've done the research and have a creative question, you will receive direct but valuable feedback.
+3. **Fast, Passive Learning**. I don't always read every thread, but will often skim through them just to catch up - as oftentimes it's entertaining as well (Sellers are funny). Doing this consistently has increased my FBA (and business) knowledge quite a bit. I now know little things about patent infringement, injection/composite molds, dealing with manufacturers, etc. that I didn't know before. It helps me plan out my path forward.
+
+So I invite you to join us. Here is a link: [https://discord.gg/VcRZTsS](https://discord.gg/VcRZTsS)"
+FulfillmentByAmazon,My FBA offer getting beat by FBM with “Amazon discount”,2023-10-27,https://www.reddit.com/r/FulfillmentByAmazon/comments/17h36vn/my_fba_offer_getting_beat_by_fbm_with_amazon/,2,"I just lost the buy box on my FBA item due to Amazon offering a discount on an FBM item. I think we a both priced above market but wondering how to win the buy box back without lowering my price 
+
+Why does the fbm offer get a discount and I don’t. 
+
+Any advice?"
+FulfillmentByAmazon,What have shady Amazon customers returned to you?,2023-10-26,https://www.reddit.com/r/FulfillmentByAmazon/comments/17h14ao/what_have_shady_amazon_customers_returned_to_you/,13,"Just this week, I got a roll of trash bags and a Halloween costume in place of the items that were supposed to be returned."
+FulfillmentByAmazon,How do you guesstimate the initial cost to rank organically?,2023-10-26,https://www.reddit.com/r/FulfillmentByAmazon/comments/17gwsag/how_do_you_guesstimate_the_initial_cost_to_rank/,4,"Are there rules of thumbs or methodologies on converting data from Helium10 (or another tool) into a guesstimate of initial PPC investment required to rank on the first page?
+
+For example, a main keyword I am looking at has the following: the products on the first page have reviews ranging from 10 to 600, with two having more than 2000 reviews. Search volume is 10-15k range. 
+
+For ease of calculation, suppose the suggested PPC bid is $2.
+
+The product has a $4 profit without taking into account PPC spend.
+
+&#x200B;
+
+How do you convert these stats into a budget to rank? 
+
+&#x200B;
+
+**Is the following the correct way of thinking:**
+
+Based on other products, ranking will probably need 80 reviews. 1 review per 100 sales, so 8000 sales. 
+
+During this process, I will probably get 80% PPC and 20% organic traffic on average. 
+
+For the 8000 sales, 80% PPC means 6400 sales thorough PPC, and 1600 sales through organic sales.
+
+The profit from one sale is $4. Use this profit to subsidize the PPC spend. For each 4 PPC sales, there is 1 organic sale, hence each PPC sale receives $1 from the corresponding organic sale. 
+
+Add that to the $4 profit from the PPC-sale itself, there is $5 profit for each PPC sale.
+
+Suggested PPC bid is $2, so will probably pay $1 per click. At a 10% conversion rate, 1 sale will require $10 in PPC cost. 
+
+&#x200B;
+
+$10 PPC cost, $5 profit means need to subsidize $5 per PPC sale.
+
+For 6400 required PPC sales, 5\*6400=$32k PPC subsidy budget is required.
+
+&#x200B;
+
+**What am I missing or doing wrong?** Is any of the assumptions outrageous? I know most of these assumptions depend on the product, category, how optimized the listing is, etc., but is there anything I am way off?
+
+&#x200B;
+
+Many thanks in advance."
+FulfillmentByAmazon,How to close Amazon stores in CA & MX? Seller Support says its not possible!,2023-10-25,https://www.reddit.com/r/FulfillmentByAmazon/comments/17gb3lc/how_to_close_amazon_stores_in_ca_mx_seller/,12,"Im a USA based seller. Amazon pulls some of my USA inventory and puts it on our CA & MX stores. I wasn't even aware of this until recently.  
+
+
+I contacted Amazon seller support about closing our CA & MX stores but they said that we cannot just shut down stores per country. The entire Amazon account must be shut down including USA. Is this true?"
+FulfillmentByAmazon,Competitor bought us out?,2023-10-25,https://i.redd.it/s3422r0d2cwb1.jpg,30,"Hi there, so yesterday our competitor threatened us and we just replied as if they were a customer ignoring the threat. Today i woke up to all our stock being “bought” out. When i checked the order its a business customer that made 3 huge orders of 25 or so units each. We know either a few things will happen 1. He will return all the products damaged (might be hard though since they live in china) 2. Theyll keep it on pending. Is there anyway i can cancel this order?"
+FulfillmentByAmazon,Any Tips/Advice before I request a chargeback? (Canada),2023-10-25,https://www.reddit.com/r/FulfillmentByAmazon/comments/17g6tmc/any_tipsadvice_before_i_request_a_chargeback/,4," 
+
+I have dealt with this supplier (clothing) from China for 5 years, probably have ordered around $50-60K from them worth of product (CAD). Always paying through Ali-Baba after order is made on WhatsApp. My last order was made and paid for about 7 weeks ago. Product takes about 2 months to arrive. The tracking # said delivered (UPS, 7 boxes), and all 7 were delivered to an address in the complete wrong city. UPS states that this was the address given to them, supplier via dispute/WhatsApp chat first claimed that it was indeed the wrong address, then says its simply a UPS issue. Anyone can track it on UPS website, the address given by the supplier that he shipped to is wrong that the city/address on UPS official website tracking. Ali-Baba dispute center is not helping, stating that on ""their end"" it is correct and delivered. I did not receive the package. 1000% CLEAR EVIDENCE, like... CLEAR AS DAY it is not delivered to myself.
+
+I have PC Financial credit card, I called them briefly yesterday to ask them for their opinion, and they suggest that once the dispute window closes, to file a claim/chargeback if there is no resolution. I have never done anything like this before. Any tips? I really needed this product and I would prefer it versus the refund but I clearly need a new supplier... 5 years of business and now they speak broken English and do not want to assist. The address it was delivered to is an Amazon Fulfillment office in Brampton ONTARIO which is 5 hours from me with ZERO methods of contact. UPS states that the product that was shipped via this tracking number was not what I am stating it is. (I ordered clothing, they are saying that the 7 boxes are labeled under hand bags).
+
+I am just lost for words, was around $4000 CAD in product/fees. I thought AliBaba was a BILLION dollar company and was reputable, the dispute interactions with the AliBaba reps was HORRID!"
+FulfillmentByAmazon,GTIN not recognized by Amazon,2023-10-25,https://www.reddit.com/r/FulfillmentByAmazon/comments/17gad5q/gtin_not_recognized_by_amazon/,6,"Hey everyone, I am new to FBA, have started production on my product in China, and for the last week have been working on getting my listing ready, but keep running into the same problem. Amazon Support has no been of any help so far, and searching google and this sub hasn't given me any real answers either. So in a last ditch effort, here I am.
+
+I purchased my GTINs from the official GS1us website a week ago. When going through the steps of adding my product to Amazon, the only issue I have run into is that I get the frustrating ""The SKU does not match any ASIN and contains invalid value(s) for attributes required for creation of a new ASIN."" error message under External Product ID and External Product ID Type for each of my two (size) variations.
+
+The first time I reached out to support, they had me send screenshots from the GS1us website to prove that the GTINs existed, then closed the ticket after basically saying ""okay, try again"".
+
+The second time I reached out, they provided instructions on how to add a product via uploading an excel sheet. This time, when I upload, I get the same few error messages all saying something similar to ""There is no record of the SKU corresponding to this update on your account. This commonly occurs when there are other issues on your SKU."" then referring me to the Impacted Cells (C4, C5), which are for Brand Name, not SKU.
+
+Also worth noting is that I have my own brand name. I do not know how to register it with Amazon or if I even need to. I created my own SKUs that I filled in the corresponding cells with. I was under the impression that SKUs are company-internal, so I can basically make it anything I want, which I did, so I don't understand why Amazon is saying it's not in their system. Of course it's not, I haven't been able to add them because you keep blocking me from doing it. So I'm totally lost on that part. 
+
+It's been a vicious cycle of ""Your SKU isn't in our system, so we can't add your product, but you need to give us your SKU so you can add your product to our system, but we don't recognize your SKU so we can't add your product..."" What am I doing wrong?
+
+I have tried selecting ""This product does not have a brand name"" but still receive the error message.
+
+And when using the Via Upload method, there is no option to select ""This product does not have a brand name"" and the Brand Name cell is required, so I am not able to use this option this way.
+
+Like I said, Amazon Support is useless so I am relying on you guys. Please, I cannot be the only one this has happened to. My products will be ready for pick up in 5 days and I do not have my listing ready, thus no addresses to send my products to when they're ready. If anyone has any other ideas that I have not tried, I am willing to try anything at this point. "
+FulfillmentByAmazon,Advice needed: Amazon FBA packaging is lackluster,2023-10-25,https://www.reddit.com/r/FulfillmentByAmazon/comments/17g3fcg/advice_needed_amazon_fba_packaging_is_lackluster/,9,"So I've started selling recently and thankfully I've been very successful.  
+HOWEVER, I am selling a relatively small, expensive, fragile item that is in my smallish box. Of course I have foam packaging for the product in my own package. However, when I sell the item on FBA, they just throw my box into a larger amazon box with a ball of paper and it rattles around.  
+Is there any way I can request Amazon to package it more carefully/better?"
+AmazonSeller,/r/AmazonSeller - sub rules and wiki page updates,2021-09-20,https://www.reddit.com/r/AmazonSeller/comments/pro3uc/ramazonseller_sub_rules_and_wiki_page_updates/,3,"Hi,
+
+thank you for participating in the /r/AmazonSeller subreddit. 
+
+**NOTE:** This forum is neither run / moderated by Amazon employees, nor is there any guarantee that an Amazon employee will come to the sub, see your participation, and respond to it. **If you wish to discuss something with Amazon, then you should contact them through their site**
+
+---
+
+# A *caution* for all sub participants
+
+First and foremost, an important reminder for all of you
+
+We don't want you to get burned. ***This sub like ALL ecommerce forums is under a constant barrage from scammers / spammers / promoters / info farmers***.  Though we remove a large portion of it, some of these clowns do get through. No matter your skillset and experience, the following kinds of situations should set off red flags every time;
+
+* contact me / send me / sharing / let's talk in private requests.  This is an attempt to scam you in private.  If they can't say it out in the open, don't trust them
+* the SUPER helpful guru - especially the ones claiming to know everything and make so much money that someone actually in their position in the real world would never have the time for what they are doing here.  No actual millionaire is here seeking a buddy just like you to give all their secrets to. 
+* people who have magical paid groups for ""secret sharing"" and paid courses with all the answers.  It's like throwing money in a trash can.
+* anyone trying to reach you for interaction beyond this forum and has no physical contact info or tries to put hurdles in the way of actual IRL contact
+
+These scenarios are more often an attempt to draw you in by someone lead generating for a service, info farming, or a scam.  Especially if you are new to selling or social media, your info and money are their goal so *be on your guard*.
+
+---
+
+# AmazonSeller Rules
+
+We've updated, reorganized, and reduced them down to the following five rules (the bold parts are fine for 99% of you, but the rest of it is unfortunately necessary due to insincere people who rule lawyer and like to argue);
+
+* **1) [Reddiquette](https://www.reddithelp.com/hc/en-us/articles/205926439) is required** - Debating points is fine, attacks are off topic and not necessary to present a differing opinion. No vote complaining. Insults, flame wars, trolling, brigading, or antagonism towards the subreddit participants, the moderators, or even the community itself will be removed and may result in an immediate ban.
+
+* **2) No Self-Promotion outside the [**Community Promotion Post**](https://www.reddit.com/r/AmazonSeller/about/sticky?num=2)** - This post is stickied 2nd from the top of the subreddit and is the ONLY place here to discuss or link to things you are affiliated with (anything by, about, or for you) including your; company or position within, site, service, product, app, article, video, product development, survey or market research, etc. Disclose any affiliations. 'Guru' posts are often lead generation, info farming, or scam attempts and likely to be removed. If the people who participate in this sub are the target market for you / your business, then take this rule seriously. Promotion violations will result in a permanent ban. There are no exceptions and appeals are not allowed
+
+   **---> If you are an Amazon VA / Consultant, tread carefully in this sub**.  *Understand this is NOT the place to try to generate leads via any method, overt or implied.  You WILL be banned for it.* **<---**
+
+* **3) No Amazon policy violation discussion** - You may not discuss intentionally breaking Amazon's system or intentional violation of their terms. This also includes anything which can be deemed as deceptive.
+
+   *Note: Discussion of reviews is restricted* due to multiple issues; the topic has already been extensively covered, the frequency of deception, dishonesty and other forms of bad faith involved, the high amount of Amazon TOS violation discussion within these posts, and the constant targeting of this topic by bad actors for spamming, promoting, lead generating, and scamming purposes. Refer to [the Amazon Seller Product Reviews Policies page](https://sellercentral.amazon.com/gp/help/external/YRKB5RU3FS5TURN) where the majority of questions on this topic are readily covered
+
+* **4) No improper links** - Use direct links even in the [Community Promotion Post](https://www.reddit.com/r/AmazonSeller/about/sticky?num=2). Improper links will be marked as spam and removed. 
+
+   * No affiliate links 
+   * No indirect links including url shorteners, 3rd party linking, or masked links. 
+   * No tracking links of any kind
+
+* **5) Posting and commenting restrictions** - *Account age, prior account activity with positive comment karma, and prior participation in the comments here are all required to post in this subreddit*. Problem posts most often come from new account holders unaware of the rules OR scammers / spammers. Participate in the comments until you can post. Negative karma accounts may not post or comment here. Requesting exceptions or appeals may result in a ban.
+
+* **6) Scam issue post types** - Due to the extremely high percentage of these involving scam issues, posts with the following kinds of content are not allowed;
+
+   * Guru posts, often coming from VAs, consultants, devs, market researchers, and product or service providers
+   * Posts with images
+   * Account stat bragging or stat images
+   * Any discussion or mentions of reviews / feedback or related services
+   * Surveys or any form of market research
+   * Service offers
+   * Partnership seeking
+   * Mentor seeking, ""I'll pay you to"", and other direct requests to be scammed
+
+*For anything related to a ban, refer to the new ban appeal info page mentioned below*
+
+---
+
+# Wiki Page Updates
+
+### [**The AmazonSeller Resource Wiki**](https://www.reddit.com/r/AmazonSeller/wiki/resources)
+
+The resource post has been moved to a wiki page.  A link to this wiki will be added to pinned posts and the sidebar.  We will post from time to time seeking suggestions for additions OR we may approve trusted sub participants to add info to the wiki (this would require a long participation history in this sub without rule violations)
+
+### [**Ban Appeal Info Page**](https://www.reddit.com/r/AmazonSeller/wiki/rulesbansappeals)
+
+If you have been banned, you need to read this wiki page BEFORE you appeal.  It covers how to appeal, how not to appeal and what to avoid, when you can appeal, and includes links to info relevant to bans.
+
+Thank you
+
+---
+
+# FAQ topic posts
+
+*[Beginner help](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%28beginner+OR+newcomer+OR+noob%29&restrict_sr=on&sort=new&t=all) / [FBA](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%22fba%22&restrict_sr=on&sort=new&t=all) / [FBM](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%22fbm%22&restrict_sr=on&sort=new&t=all) / [Arbitrage or Walmart](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%28arbitrage+OR+walmart%29&restrict_sr=on&sort=new&t=all) / [Suspended account](https://www.reddit.com/r/AmazonSeller/search/?q=title%3A%22suspended%22&sort=new&restrict_sr=on&t=all) / [Fees](https://www.reddit.com/r/AmazonSeller/search/?q=title%3A%22fees%22&sort=new&restrict_sr=on&t=all)  / [Product codes](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%28codes+OR+barcodes+OR+UPC+OR+EAN+OR+ISBM+OR+ASIN+OR+FNSKU%29&restrict_sr=on&sort=new&t=all) / [Brand concerns](https://www.reddit.com/r/AmazonSeller/search/?q=title%3A%22brand%22&sort=new&restrict_sr=on&t=all) / [Freight](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%22freight%22&restrict_sr=on&sort=new&t=all) / [Guides, courses, and tutorials](https://www.reddit.com/r/AmazonSeller/search?q=title%3A%28course+OR+tutorial+OR+guide%29&restrict_sr=on&sort=new&t=all)*"
+AmazonSeller,/r/AmazonSeller Community Promotion Post - Want to discuss or share something you are affiliated with related to Amazon? Tell us about it in this post.,2023-10-01,https://www.reddit.com/r/AmazonSeller/comments/16wy76c/ramazonseller_community_promotion_post_want_to/,8,"The comment section of this monthly feature post is the one place in this subreddit to tell our readers about something of yours. Be sure to include a description with  links and respond to any replies you may get. This post is meant to be welcoming, informative and fun. However, know that spam and self-promotion rules here are enforced very strictly in this subreddit
+
+* All comments in this post must follow the site and sub rules
+
+* Comments containing email addresses and phone numbers will be removed
+
+* **DO NOT** ask anyone to PM you, talk privately, sidebar, etc.  Those who do this are almost always scammers trying to farm people in private unchallenged
+
+* Failure to follow the rules regarding self-promotion will result in a ban of your account(s) and site(s). Submitting anything you are affiliated with, self-promotion discussion, and lead generation anywhere in the subreddit outside of this post is prohibited. See [**the subreddit rules**](http://www.reddit.com/r/AmazonSeller/about/sidebar) BEFORE you attempt to submit links to your work(s) or discuss your business outside of this thread. 
+
+* This forum is neither run / moderated by Amazon employees nor is there any guarantee an employee of Amazon will see your participation here and respond. **If you wish to discuss something with Amazon, then you will need to contact them through their site**
+
+***Thank you for sharing here in the Community Promotion Post!***"
+AmazonSeller,Really Trying to Understand Returns,2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17hfulo/really_trying_to_understand_returns/,1,"Trying to truly understand what's going on here but can't seem to form any practical conclusions.
+
+Selling personalized items in clothing and I'm starting to see these refunds come in. They aren't listed under ""Manage Returns"" and I don't seem to have any settings for ""returnless refunds"". On top of that, these customers aren't sending their products back. And on top of THAT, these are personalized products and aren't eligible for return unless damaged or materially different. One instance is to the tune of over $500 from the same buyer purchasing multiple products and Amazon apparently just refunding their order in full, without our involvement. Just getting emails about returns that are being processed.
+
+Filed SAFE-T claims to reclaim the refund due to the fact that 1) these products are personalized and 2) we aren't getting the items shipped back to us and we also aren't even involved in the decision-making process. The SAFE-T claims were denied with the following respone ""We have denied your reimbursement request for order XXX Why is this happening? You did not use the Buy Shipping Services to ship the item. Reimbursements can only be granted when Buy Shipping Service is used to ship a self-fulfilled customer service by Amazon (CSBA) order.""
+
+Trying to understand what's going on here and hoping someone can help. How can I be more involved with the returns process to avoid this theft?"
+AmazonSeller,Account deactivated and money withheld...,2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17h8fr5/account_deactivated_and_money_withheld/,2,"So I had been selling on Amazon for 7/8 years. 
+
+Brand registered, 100% health on everyone and selling FBM & FBA. 
+
+I had 3 of these to sell about 3 years ago and found the item already on Amazon so I used the Asin.
+
+ASIN: B089QNK4YB
+
+I then get an email 6 months ago now stating my account has been deactivated due to this item.
+
+After lots of back and forth they said this type of item is not allowed. 
+
+I had an online video call with disbursements to show suppliers etc but they point blank refused to pay the £1400 they are holding from me..
+
+Is this normal practice and is there anyway of getting my money back ?"
+AmazonSeller,Incorrect Product Page Edits,2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17het7b/incorrect_product_page_edits/,1,"Hello. I'm not an Amazon seller but have experience with eBay. I was trying to make some description/title corrections on Goodreads for an author I know. A lot were imported from Amazon so that makes two places that need to be revised. Most of the old novels are on the secondary market so nothing the publisher is interested in. Many of them were printed pre-2000s so a lot of the Amazon pages and errors are clearly from early days e-commerce booksellers.
+
+I'd like to get some of the photos adjusted, ISBN fixed, various editions combined into the single title entity, and duplicates resolved. I've done these kinds of revisions on sites that have a ""team"" but Amazon seems to be such a behemoth like Facebook I doubt hardly anyone left on staff fiddles with that kind of stuff. Clearly all the customer service people I have chatted with are more on the customer purchase resolution side, nothing behind the curtain.
+
+The report error button does nothing. The authors area is focused more on current self-publishing authors and their works and Kindle ebooks. I'm very stubborn and will keep trying but wondered if anyone knew any tricks for this kind of thing. I saw in a sellers forum that booksellers said since COVID times their previous strategies that worked no longer work to get edits through but I was wondering if anyone knew an email or contact window for something that worked.
+
+I don't mean any disrespect to sellers trying to get everything in shape for the holidays for minor issues and can hold off as to not clog the system. Why I'm interested in this tedious project without much obvious reward is I realized that what Google and Bing were primarily scraping for this author's info box about 90% Wikipedia and Amazon so I would be a good learning experience to see if this could be fixed."
+AmazonSeller,Returns getting frustrating.,2023-10-26,https://www.reddit.com/r/AmazonSeller/comments/17h1ewt/returns_getting_frustrating/,23,"I sell clothes for a niche audience. Ccw owners. Demographicly they are big boys. 3xl 4xl and more. It’s been super frustrating because I swear 10/10 are returns citing “too small”. I have the measurements all written out in the pictures and in the bio and wherever else I can put it. Not sure how else I can spell it out for people the sizes and measurements. 
+If I see a 3xl sale I’m expecting a return and that sucks. 
+Amazon makes it waaaay to easy to try stuff and return I swear. And it’s costing me a lot. 
+I’ve tested my product with overweight people. It works fine. It’s just that people are waaay overweight trying to get ccw clothes. 
+Not sure how else to go about without calling out obese people to measure themselves or take sizes 3xl on up off the marketplace saying it’s sold out and to only sell in person or my site. 
+Would you write in the description for bigger people to measure themselves first?"
+AmazonSeller,how important is Voice of the Customer,2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17hecd4/how_important_is_voice_of_the_customer/,1,"some of my listing got a ""poor"" because one of out 20 say it is missing something, i mean there is nothing i can do if they decided that is the reason. how important is it and what can be done to remove that"
+AmazonSeller,"Business type individual, but asking Credit card for Professional selling subscription",2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17h4chc/business_type_individual_but_asking_credit_card/,3,"I've created an account to sell on Amazon. In the first step I chose I'm an individual for the business type question. But during the process it ask for my credit card information so they can charge mee 39.99 usd per month. I thought as an individual you only pay 0,99 dollars per fee? Is this normal? What to do?"
+AmazonSeller,Am I the only one experiencing Buy Shipping issues with Amazon & USPS?,2023-10-27,https://www.reddit.com/r/AmazonSeller/comments/17h6xv3/am_i_the_only_one_experiencing_buy_shipping/,4,Seems to me Amazon is struggling to get the USPS Ground Advantage implemented in their buy shipping services. Ruined my morning being unable to buy amazon labels (via ShipStation) and pretty sure we're in for the same sh\*t tomorrow. They must finally be working on replacing first class and parcel select with ground advantage but they're just causing issues. Even the orders that correctly have correctly replaced first class with the ground advantage option are not showing the correct rates for packages under 1 lb. But none of this has been posted on their API Health Dashboard where they should be acknowledging it. There's no way it's just me but I don't see anyone on the forums complaining about it. Anyone else know what I am talking about here? 
+AmazonSeller,Amazon online arbitrage,2023-10-26,https://www.reddit.com/r/AmazonSeller/comments/17h0m8o/amazon_online_arbitrage/,4,"Why do online arbitrage sellers get such a bad rep? I started doing this about 6 months ago and it’s turning out to be surprisingly profitable.
+
+But I’ve seen someone call OA sellers “the dying breed of amazon”
+
+Why is that? Just curious."
+AmazonFBAOnlineRetail,This subreddit is now active. Please read this post,2023-10-26,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/17gxdqk/this_subreddit_is_now_active_please_read_this_post/,0,"Hi, welcome to this community. r/AmazonFBAOnlineRetail is a very useful community for the people who are already working or going to start their online business in Amazon FBA. 
+
+Learning is a continuous process and nobody knows the complete knowledge of any field. If you are an expert then try to solve the problem of a newcomer and may be his question will increase your knowledge and experience. Also newbies should try to acknowledge his seniors. 
+
+We have added [**Rules**](https://www.reddit.com/r/AmazonFBAOnlineRetail/about/rules/)**.** Rules are not complex but some common advices. Like respect each other and try not be a spammer. Be a good human and try to help each other. 
+
+Also, we have added flairs as they are important. You flairs reflect the theme of your post. If we have missed some flairs then please comment under this post so that we can add. 
+
+Don't send message to the mods directly but you can use the option ""[**MESSAGE THE MODS**](https://www.reddit.com/message/compose/?to=%2Fr%2FAmazonFBAOnlineRetail)"". 
+
+Feel to ask any question and try to figure out problems so that we can make this community a great place for our respected users. 
+
+Regards
+
+u/AmbitiousStyle"
+AmazonFBAOnlineRetail,Resource list for Amazon Sellers.,2023-07-23,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/157j0l4/resource_list_for_amazon_sellers/,6,"Succeeding in FBA can be quite hard in a competitive market like this.
+
+And with the lack of Resources out there, its easy to make a mistake (while choosing a product, choosing a supplier, etc.), and mistake is something you can not Afford, especially in a high-ticket business like Amazon FBA.
+
+So I decided to Compile a list of helpful Resources/Groups/Communities that new Amazon Seller can refer to:
+
+# 1. Amazon Seller Central
+
+You might already know about this. Its a forum for Amazon Sellers, where you can ask about any Question you have.
+
+If you have a query, you can try asking here.
+
+But Its more or less like Reddit, sometimes your Questions can go unnoticed.
+
+# 2. Twitter
+
+Twitter is definitely the most helpful and reliable resource for any type of eCommerce.
+
+Its also the easiest way to find suppliers, dealers, leads, etc.
+
+I myself found my current supplier through Twitter, I was interacting with other seller on twitter, and someone recommended them.
+
+# 3. [The FBA Roadmap](https://gumroad.com/a/588523731/mrlfoy)
+
+https://preview.redd.it/afmcnyrkpqdb1.png?width=1280&format=png&auto=webp&s=a1acc56362408e698697346f28c995e6200b09d9
+
+This is a HUGE Amazon Seller Community created by fellow Sellers from Reddit & Twitter.
+
+Its also has a complete step-by-step Guide to Selling on Amazon + a closed Discord Community of over **45000 Amazon Sellers** who can help you with your queries if needed.
+
+https://preview.redd.it/jukob09mpqdb1.png?width=1290&format=png&auto=webp&s=224830dab9a6970c7824b3bfbbcae48f8e8618b7
+
+You can [find more about it here](https://gumroad.com/a/588523731/mrlfoy)
+
+# 4. Helium10
+
+https://preview.redd.it/a5mhnkhnpqdb1.png?width=528&format=png&auto=webp&s=7fd58a2c86a71da5900fccabc47e34ad5634d577
+
+Helium10 is known for its collection of tools helpful to Amazon Sellers. They have many free tools like Keyword Research, PPC audit, Sales Estimator, etc.
+
+What I like most is their Free Keyword tool, helps in finding low competition keywords.
+
+Keyword Research is an important step if you to make sure that your product ranks higher in Amazon Search. It can boost your product ranking by a lot if done right.
+
+# 5. Google Trends
+
+https://preview.redd.it/tq5d0blopqdb1.png?width=1407&format=png&auto=webp&s=a89c9f4e4392c6bd3792db3219fccc5727056034
+
+Google Trends can be a really helpful resource for finding trending products.
+
+It can provide you info about all the current Trends in the market and show you what most people are searching on Google right now.
+
+You can use this info and choose your next product according to the Market Demand.
+
+In other words, you can use this tool to basically *cash out the hype.*
+
+# 6. FBA Hustlers
+
+Its a private Facebook group for Amazon Sellers. It has around 4000 Amazon Sellers. Its a decent place to talk to other sellers and get opinions / advice.
+
+However the group has a really long approval time. I requested to join the group last month, and my request is not approved yet.
+
+You can give it a try and see if you get accepted.
+
+..............................
+
+These were some Resources that I can think of rn.
+
+Will definitely add few more to this list when I get time."
+AmazonFBAOnlineRetail,What Labels to I have put on my product from my supplier who will send them to Amazon FBA Warhouse?,2023-07-23,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/157hsay/what_labels_to_i_have_put_on_my_product_from_my/,3,"What Labels to I have put on my product from my supplier who will send them to Amazon FBA Warehouse? Is it the UPC, FNSKU, and ASIN numbers? ALso, can I have the graphic designer just put these on the label?"
+AmazonFBAOnlineRetail,Online arbitrage and Private label at the same time (HELP),2023-07-19,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/153ech6/online_arbitrage_and_private_label_at_the_same/,12,"I want to do a mixture of selling my private labeled branded products, but I also want to fund the brand by doing online arbitrage. Can I do this on the same account? Am I allowed to make separate accounts using my personal information twice? Anything helps thanks"
+AmazonFBAOnlineRetail,How can i figure out FBA customer name and address?,2023-07-18,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/152nj5v/how_can_i_figure_out_fba_customer_name_and_address/,2,"I had a customer bluntly scam our store. Amazon are no help at all. Now i want to find out his information. ALL the reports i download come with only first name and zip/city. I want full address and name so i can google them and see what else they been up to and hopefully avoid selling to him on other marketplaces. 
+
+Anyone can point me to a report i can creat to find out 2 month old FBA client's information? 
+
+Thanks."
+AmazonFBAOnlineRetail,Just wondering：how many people have sold in Amazon or other e-commerce and lost money ?,2023-07-17,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/151prov/just_wonderinghow_many_people_have_sold_in_amazon/,16,"I find that either using fba or shipping on my own as an individual, it is still very hard to find the right products to sell. Let's say I have found a product $10 (half price), but even if I sell at $20 (and I can't sell higher because others are selling at that price max) , with either $10 shipping + $3 Amazon  or $7 fba + $3 Amazon fee , then there's a risk of return or package lost. Just not profitable. Free shipping is nearly everywhere these days, I need to consider how others are charging too when buyers can look around too. 
+
+If sourcing from Alibaba, together with the shipping cost to US, then there's Temu and other sellers selling similar or identical products, pricing for a profit just isn't as nice from seller's perspective."
+AmazonFBAOnlineRetail,Thinking of creating a software tool,2023-07-16,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/150yejt/thinking_of_creating_a_software_tool/,0,"What would you guys think of a product that could help optimally price a product for ratings or profit within a specific niche? Was curious what you guys would think about a tool like that or if there is demand for it. It would help price items better based on competition. What would you guys think of such a product? 
+
+Would you personally buy a subscription for a tool like that?
+
+[View Poll](https://www.reddit.com/poll/150yejt)"
+AmazonFBAOnlineRetail,i have a list of 500 authentic suppliers and distributors for amazon fba wholesale.,2023-07-14,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/14znbc1/i_have_a_list_of_500_authentic_suppliers_and/,61, hmu if you are interested 
+AmazonFBAOnlineRetail,New Feature,2023-07-14,https://www.reddit.com/r/AmazonFBAOnlineRetail/comments/14z8sb5/new_feature/,0,"Seems like Amazon is ahead of its time - literally! 
+
+The latest Amazon Advertising announcement is dated August 21, 2023, and today, we're in mid-July. If you didn't know any better, you'd think Amazon's already a month ahead of us! 🚀
+
+But let's reel back to the present day and talk about this new feature in case you haven't heard
+
+✅ Amazon has introduced alerts for Sponsored Product campaigns right within the Campaigns page.
+
+The feature lets you see alerts right on the Campaigns page for various issues such as ad policy violations, product eligibility issues, low featured offer win-rates, and campaigns not receiving clicks. 
+
+Best part? Each alert comes with an actionable recommendation to resolve the issue."
+AmazonFBAOnlineRetail,How is your Prime day??,2023-07-12,https://i.redd.it/5jpjglorzdbb1.png,5,
+FBAadvanced,Amazon Warehouse and Distribution - thoughts?,2023-10-22,https://www.reddit.com/r/FBAadvanced/comments/17dg83w/amazon_warehouse_and_distribution_thoughts/,4,Hey all - has anyone used / is using AWD? Curious to hear if you like it or it still isn’t good enough to send my inventory there. Thanks I’m advance!
+FBAadvanced,35% exclusive discount for 3 months to use Helium 10,2023-10-21,https://www.reddit.com/r/FBAadvanced/comments/17d2eup/35_exclusive_discount_for_3_months_to_use_helium/,0,"**35% exclusive discount for 3 months to use Helium 10.**
+
+This discount will expire in mid-November, so hurry
+
+You want it? Sign up for my newsletter and you will receive it instantly 👉 [https://amazontools.substack.com/](https://amazontools.substack.com/)"
+FBAadvanced,New to FBA,2023-09-28,https://www.reddit.com/r/FBAadvanced/comments/16txd1k/new_to_fba/,0,"Hello everyone,
+
+&#x200B;
+
+I am looking to source a product from Alibaba. I have found the supplier. I have discussed the pricing and shipping. I have calculated the profit, and everything seems to align.
+
+&#x200B;
+
+I have questions about creating a new product, Amazon warehouse, and distribution services, as well as how to add a product I don't have on hand. 
+
+&#x200B;
+
+Let me elaborate:
+
+1. The product is chosen. All I need to figure out is my package's design and size. Most likely, it will be a large or oversized product. The product itself is pebble-like soil(not considered actual soil)
+2. I do not understand how to calculate what I need to pay for storage and distribution services as I am still in talks with the supplier about sizing and package design. I do have a GTIN that will represent my product, but I cannot add images yet. I can not create and verify the brand with Amazon for my product either.
+3. For the supplier to give me an accurate estimate for shipping, I need to give them the address of the distribution warehouse, but.... Amazon will not give me that until I verify my brand, upload my product, and give them all the other details.
+
+If you have any suggestions or are willing to engage in a discussion, I would love to hear more from people who know what they are doing."
+FBAadvanced,When is the best time to ship for Christmas?,2023-09-05,https://www.reddit.com/r/FBAadvanced/comments/16ag91n/when_is_the_best_time_to_ship_for_christmas/,0,"Hi guys  
+Christmas is on December 25th, and Amazon’s cut-off date for receiving is around December 1-3. Although Amazon can still accept shipments after December 1st, you may miss some events. During the peak season, the shipping time may be 2-3 days slower. It is important to choose the right shipping method.
+
+1. Express; 3－9days
+2. Air: 9-12 days
+3. Fastest sea: 18－25days
+4. Normal sea: 35－50days (unstable)
+
+If your budget is limited, only Normal sea can maximize your profit. Then the best shipping date is **mid-October**, or even earlier, because the Normal sea is unstable, which is beyond the control of the carrier. Of course, we will give professional advice on which shipping method to choose.   
+In the peak season, many people will use the combination of Air and Sea.  
+
+
+**Note: Time according to each shipping method above. We'd better arrange shipment 5-10 days in advance.**  
+
+
+In addition, we must always remind suppliers to complete the product within the specified time during the production stage. During peak seasons, production delays often occur. It makes you have to choose a faster shipping method to increase the cost. Therefore, please place an order from the supplier in advance, and follow up with the supplier for production.  
+
+
+**Some causes of delays you need to know:**  
+1. Production order overload causes delays  
+2. Quality inspection failed  
+3. Container space is limited. The cut-off time is advanced.  
+4. Port workloads up, workforce down (strikes)  
+5. Amazon's warehouse is full, it‘s difficult to make delivery appointments  
+
+
+If you don't want to miss Christmas,   
+**September is a great time to place your order and October is a great time to ship.**  
+
+
+Also, if you plan for Black Friday too. Then arrange shipping in September.
+
+https://preview.redd.it/vdpjs7ouqdmb1.png?width=1000&format=png&auto=webp&s=7d5ef371bd12038132906b1929520733371e99b2"
+FBAadvanced,Recent courses? Or old still gold,2023-09-02,https://www.reddit.com/r/FBAadvanced/comments/1681pml/recent_courses_or_old_still_gold/,0,"I’m doing my research on YouTube, so far I’ve found that honest FBA, Travis Marziani and Santrel Media to be the highest ranking options. The first 2 I’ve found to be rather ‘meh’ I don’t believe them and the content is really vague, they aren’t giving actionable advice. Even their hour step by step videos I came away without direction.
+
+I’m finding Santrel Media to be a bit more informative, they also aren’t trying to upsell anything which helps. 
+
+But their guide videos are 2-3 years old now, are they too outdated?
+
+If so what are some good courses that have updated info. 
+
+Eager to get going and feel like I’m stuck in this research phase and need that better guidance to make the next step."
+FBAadvanced,Any Seller from Germany here?,2023-08-31,https://www.reddit.com/r/FBAadvanced/comments/166542s/any_seller_from_germany_here/,2,"I would like to network with sellers from Germany, if there are sellers from Germany who also want to network, let's connect!"
+FBAadvanced,Seller app has the sales tab missing under inventory (used to be one of the tabs when you would select an item on the app in your inventory),2023-08-23,https://www.reddit.com/r/FBAadvanced/comments/15z48on/seller_app_has_the_sales_tab_missing_under/,0,Are you still seeing it? I can’t for the last couple days and I loved to get the insight on sku sales real quick under that tab
+FBAadvanced,PPC / DSP spend allocation,2023-07-20,https://www.reddit.com/r/FBAadvanced/comments/154yt5g/ppc_dsp_spend_allocation/,0,"Hey all,
+
+How do you allocate your spend across advertising inventory? Ideally would love to get the perspective of people selling across all channels (omnichannel) and a branded product. But any input would be appreciated. 
+
+Any context on what efficiency metrics you are looking at across the different types of ads would also be helpful."
+FBAadvanced,Scaleday,2023-07-10,https://www.reddit.com/r/FBAadvanced/comments/14vqk4n/scaleday/,0,"Hello together,
+
+I was wondering if you guys also heard about the AdWork Scale Day in Cologne and if you are taking part at this event?
+
+&#x200B;
+
+Thank you."
+FBAadvanced,How do you send money to China from the UK,2023-07-07,https://www.reddit.com/r/FBAadvanced/comments/14sqfvq/how_do_you_send_money_to_china_from_the_uk/,5,"Just wondering how people send money to China, from the UK.
+
+I use a personal app - that has limits though, even after being verified.
+
+Western Union - they block your account if you send too much.  
+(They have poor rates though.)
+
+Remitly - good rates... but send too much and they ban you.
+
+Send direct from bank? Which bank do you use?
+
+What rates do you get? Have you compared with other platforms? Traditionally banks have poor rates."
+ecommerce,Sub Rules and Clarifications - PLEASE READ BEFORE POSTING,2020-04-03,https://www.reddit.com/r/ecommerce/comments/fu9p78/sub_rules_and_clarifications_please_read_before/,30,"**NEW POST OR COMMENT NOT SHOWING UP?**
+
+Currently, the sub **requires a Reddit account age of 48 hours and a minimum Reddit comment karma score of 10**.  There are no exceptions to this, so please do not contact mods for an exception.  You will not be able to post or comment in the sub until you meet the minimum requirement for contributing.  
+
+**ECOMMERCE POSTING / COMMENT RULES**
+
+ - Be polite, respectful, and helpful at all times.  
+
+**What You Cannot Do**
+
+ - If you solicit in this sub in any way - via post, request for DM, referral, or DM to others - or in any way try to initiate personal contact with a user your comment / post will be removed and you will be banned. No questions asked, no second chances. The sub is here to help users, not for you to promote yourself or others. Do not link to your YouTube, Twitter, FB, or other pages.  Keep all conversation pertaining to the post *here* so that everyone may benefit from the conversation. 
+
+ - Post a link to a service / blog / video / or website outside the context of the post.  Posting a link for site review is allowed. 
+
+ - Do not post anything related to NFTs
+
+ - Make a ""I Made $XXX In 6 Weeks Dropshipping - Here's How"" or any any type of ""Top 5 Ways You Can..."" lists or other obvious blogspam type posts. 
+
+ - Ask what products you should sell. 
+
+ - Offer your site or courses for sale or partnership.
+
+ - Post an unsolicited AMA (ask me anything). Such posts are rarely approved with the exception of highly visible industry veterans. 
+
+ - Low effort posts that are over-generalized or not specific in direction or question.
+
+These rules are **strictly** enforced by mods in an effort to keep the sub as spam free as possible.  We welcome all experience levels and encourage your questions and answers.  This is not the place to promote yourself, your company, or your service, but it is the place to get help from others on how to help make your store successful.
+
+**LATEST REVISION 08/11/2023**"
+ecommerce,Need recommendations for a good site or ordering system for an existing wholesale B2B business.,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17hev1q/need_recommendations_for_a_good_site_or_ordering/,3,"Hello all,  
+We have a family wholesale b2b business where we sell grocery snacks in bulk to niche grocery stores.  
+Our current system of ordering is by sending pics of products available in a whatsapp broadcast to customers. They'd then call or message or email us with their orders. Which then we manually enter into our companies quickbooks which we already pay for. Before that we had to go to the stores physically and take orders in person.  
+Now we were looking for something that can make this ordering system and inventory management easier. I came across a post for shopify offering b2b wholesale section but I saw that they take percentage from the sales we make. That really doesn't work for our business.  
+Also came across [StoreBuilder](https://www.nexcess.net/storebuilder/) by Nexcess. They don't charge on the sale which sounds good. I am not sure if this will work for a wholesale b2b business. We sell truckloads of products to the stores. Has anyone tried it?   
+Anyone has another recommendation to make this process easier? We currently get orders everywhere on texts, emails, on phone calls and in person. Then we have to manually enter each item ordered in quickbooks to make an invoice which is then printed and the ordered boxes are loaded on palletes and the invoice paper is given to the customer to sign to confirm they received the order. We usually give them over 30 days to make their payments before charging 1.5% interest for delayed payments. Many times we have to call the customers to remind them for their payments. Then they mail us a check which may or may not bounce sometimes so we have to call them again to reconcile the payment issues. If the payments go through we have to enter those in quickbooks for each payments received and for each purchase we made aswell.  
+It would be nice to save time and energy and automate some of this so I could focus on the things that matter more for the business. Any and all recommendations would be apreciated to make this process smoother.  
+Thankyou in advance!"
+ecommerce,Day 1 suspended on Etsy. LF alternative,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17hbqeg/day_1_suspended_on_etsy_lf_alternative/,12,"So day 1 suspended. No email to explain. My single listing was removed. I’ve read this is common so sent an appeal. The appeal was denied after a day. So I’m looking for an alternative. 
+
+It’s a niche clothing/branding company. It’s meant to be faith based stuff. Stuff I feel more passionate about. I have a full time job so wanted printify or equivalent to satisfy orders. I’m looking for advice on alternatives or suggestions on how to proceed. Shopify, Instagram shop, etc. 
+
+Thanks for your time."
+ecommerce,Why is my conversion rate dropping?,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17hev9s/why_is_my_conversion_rate_dropping/,5,"Hi all, so I’ve spent the last month on a specific store and I originally saw pretty solid conversion rates but due to poor ads my CPA/CPC was very poor and I could never turn actual profit. Now that I’ve refined my ads I get pretty good CPC but my conversion rates have taken a hit.
+
+I’ve done nothing to change my site or prices. The only difference is I’ve started advertising to North America.
+
+I was under the presumption that North America was a great market to capitalise on?
+
+Any help appreciated!"
+ecommerce,Any recommendations for 3PL in USA?,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17hduhv/any_recommendations_for_3pl_in_usa/,1,"Hi all, looking for advice on a great 3PL that someone can recommend; I've been looking around for options and trying to get some quotes. Happy to talk further about the details. "
+ecommerce,Recommendations for personalized print on demand postcards or greeting cards?,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17hd488/recommendations_for_personalized_print_on_demand/,2,"I’m looking into creating an e-commerce store (Shopify or Woo) that allows people to create personalized postcards or greeting cards - such as:
+
+1. Choose a template
+2. Enter your personal message 
+3. Select quantity 
+4. Purchase
+
+Specifically, this needs to be print on demand. 
+
+Now, I know that there are various Shopify apps that sort of do this, but the problem is they take over the UX, and generally they suck at that. I’d like to be able to control the UX. 
+
+For what it’s worth I’m very comfortable developing, and can connect to an API if necessary. Also open to ideas where I upload a CSV every night to a service, etc. 
+
+Anybody have good companies or services?"
+ecommerce,Don’t have the time to build from scratch so I want to buy…,2023-10-26,https://www.reddit.com/r/ecommerce/comments/17gudbd/dont_have_the_time_to_build_from_scratch_so_i/,48,"What are some good tools to use to value a e-commerce store? Any advice on how to value a store? I don’t want a six figure store but something smaller to start with. I hear that Flippa is one of the best sites to buy.
+
+Edit: I don’t want to pay anyone to build a website for me. Hence why I am I posted it in the title. Please don’t message me saying you will help me build one. "
+ecommerce,Getting into retail,2023-10-26,https://www.reddit.com/r/ecommerce/comments/17gz2zc/getting_into_retail/,6,"I got an email from the owner of two liquor stores who likes our product and would like to sell it in his stores! I've only sold online so far so it's an exciting venture. 
+
+How does selling to stores work? Should I offer a discounted (but profitable) price if he buys a certain amount so they can sell it at the retail price to their customers and we both make money? 
+
+Thanks for any help if you have experience in this!"
+ecommerce,Which company offers the cheapest shipping rates?,2023-10-26,https://www.reddit.com/r/ecommerce/comments/17h2l8a/which_company_offers_the_cheapest_shipping_rates/,5,"Hi, I just started a Shopify store and I’m looking for the best prices for both large and small packages. I have a feeling that Shopify’s discounted rates are not the best. Who offers the cheapest rates? Leave a comment if there’s a better option than the ones mentioned.
+
+[View Poll](https://www.reddit.com/poll/17h2l8a)"
+ecommerce,'Loadout' style interface: what's the best tool?,2023-10-27,https://www.reddit.com/r/ecommerce/comments/17h9llk/loadout_style_interface_whats_the_best_tool/,0,"I wish to create a website where the user is facilitated in buying a set of items, similar to a 'loadout' like you would see in a video game, where there will be several categories from which to choose singular items for each, and likely a visual representation of those choices; in games it's usually a 3D model, but I don't want or need something so fancy.
+
+Something like the interface from Battlefield 4 ([example](https://www.google.com/url?sa=i&url=https%3A%2F%2Flia-sae.net%2F2016%2F02%2F04%2Fmuch-ado-about-customize%2F&psig=AOvVaw0AWqqNx4NqFs2NqXQVrgf9&ust=1698447293840000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjy6K7nlIIDFQAAAAAdAAAAABAI)) or Tarkov ([example](https://diamondlobby.com/wp-content/uploads/2023/08/Naming-Preset-Escape-from-Tarkov.jpg))
+
+Certain item selections will define any following selections: continuing with the video game example, some accessories will only be available for specific kinds of weapons.
+
+Other parts of the interface will allow for choosing the quantities we want of items related to our loadout: say you selected a medic-bag; there will be a button to increase/decrease the number the user wants to purchase.
+
+Then all the selected items can be added in a single 'Add Loadout to Cart' click
+
+Is there a platform where I can get reasonably close to this kind of functionality? Worst comes to worst, I have the ability to program it, but I wanted to know if there's something that can alleviate some of the work, as I'm expecting it will need a back-office, database...
+
+Thanks!
+
+&#x200B;"
+AmazonTools,Helium 10 Discount Codes updated 2023,2023-01-23,https://www.reddit.com/r/AmazonTools/comments/10j83ca/helium_10_discount_codes_updated_2023/,1,Here are some [Helium 10 discount codes](https://jordiob.com/amazon-tools/helium-10-discount-code/) updated for 2023
+AmazonTools,Arbisource review: Amazon arbitrage sourcing software,2023-10-27,https://jordiob.com/amazon-tools/arbisource/,0,
+AmazonTools,Arbisource review: Amazon arbitrage sourcing software,2023-10-27,https://jordiob.com/amazon-tools/arbisource/,0,
+AmazonTools,JUNGLE SCOUT 🏆 80% discount + review (2023),2023-10-26,https://jordiob.com/amazon-tools/junglescout/,0,
+AmazonTools,Jungle Scout Extension review: Amazon product research on the go,2023-10-26,https://jordiob.com/amazon-tools/jungle-scout-extension/,0,
+AmazonTools,Unleashing the Secret Weapon for Amazon Sellers: 🚀 Carbon6’s Amazon Reimbursements Tool Revealed: Seller Investigators,2023-10-25,https://www.reddit.com/r/AmazonTools/comments/17fvid9/unleashing_the_secret_weapon_for_amazon_sellers/,0,"Hey fellow Amazon sellers!
+
+Ever found yourself scratching your head over lost inventory or mysterious fees eating into your profits? Enter the superhero: Seller Investigators - Amazon Reimbursements Tool.
+
+1. 🕵️‍♂️ The Mystery of Lost Money:
+We’ve all been there – that moment when you check your Amazon seller account and wonder, “Where did my money go?” We understand the struggle and have cracked the code.
+
+2. 🚀 Carbon6 to the Rescue:
+So, what’s the deal with Carbon6’s tool? It’s like having a sidekick that dives deep into your seller data, uncovering those sneaky discrepancies that Amazon might have missed. Lost or damaged goods? Overcharged fees? Say no more. We file it all for you.
+
+3. 🎯 Accuracy Strikes:
+Gone are the days of manual audits and human errors. Seller Investigators is your accuracy ninja, ensuring that every misplaced penny is spotted and returned to its rightful owner – you!
+
+4. 🤖 Set It and Forget It:
+Techy stuff can be overwhelming, right? Fear not! Carbon6’s tool is designed with simplicity in mind. It’s like the crockpot of reimbursements – set it up, let it work its magic, and come back to a financial feast.
+
+5. 👍🏼 Transparency FTW:
+Transparency is the name of the game. Seller Investigator’s reports are crystal clear, giving you the lowdown on what’s happening in your Amazon financial universe. No more navigating through a maze of confusing numbers – it’s all laid out for you.
+
+If you want a FREE AUDIT with Seller Investigators to see the potential $$$ Amazon owes you book a meeting with me [HERE](https://go.oncehub.com/KatieJiang).
+
+Happy selling and may the reimbursements be ever in your favour! 💸"
+AmazonTools,35% exclusive discount for 3 months to use Helium 10,2023-10-21,https://www.reddit.com/r/AmazonTools/comments/17d21vz/35_exclusive_discount_for_3_months_to_use_helium/,0,"35% exclusive discount for 3 months to use Helium 10.
+
+This discount will expire in mid-November, so hurry
+
+You want it? Sign up for my newsletter and you will receive it instantly 👉 https://amazontools.substack.com/"
+AmazonTools,Advanced Strategies with Sellerise’s Keyword Tool,2023-10-18,https://jordiob.com/amazon-tools/sellerise-keyword-tool-advanced-strategies/,0,
+AmazonTools,Tactical Expander: expand Tactical Arbitrage +400 new sites,2023-10-17,https://jordiob.com/amazon-tools/tactical-expander/,0,
+AmazonTools,UNICORN SMASHER: Amazon product research (2023),2023-10-17,https://jordiob.com/amazon-tools/unicorn-smasher/,0,
+LogisticsHub,Opportunity Alert,2023-10-24,https://www.reddit.com/r/LogisticsHub/comments/17ev2gd/opportunity_alert/,0,"If you are a 3PL Owner (and only if you're an owner) in the US - DM me for more details:
+
+Industry: Retail
+Type: E-commerce 
+Order Profile: B2C 
+Monthly Order Volume: 3000"
+LogisticsHub,This is an essential reminder for e-commerce businesses:,2023-10-23,https://www.reddit.com/r/LogisticsHub/comments/17e9uy9/this_is_an_essential_reminder_for_ecommerce/,0,"**Track and prioritize new customer acquisition for sustainable growth.**
+
+It's easy to fall into the trap of emphasizing low Cost Per Purchase and high ROAS, especially when targeting existing customers. However, your real growth potential lies in expanding your customer base. Here's a breakdown of what to consider:
+
+**1. Diversify Your Ad Strategy:** Balancing ads that target new and existing customers is key. Allocate a significant portion of your budget to acquire new customers and a smaller portion for retargeting existing ones.
+
+**2. Analyze Key Metrics:** Keep a close eye on metrics like New Customer ROAS and Cost to Acquire New Customers. These numbers will guide your strategy and help you gauge the effectiveness of your ad spend.
+
+**3. Email Marketing:** To retain existing customers, invest in email marketing. It's cost-effective and can boost customer loyalty and lifetime value.
+
+**4. Regular Data Review:** Consistently review your ad data to adapt your strategy as needed. Don't get blinded by seemingly great CPA or ROAS figures; focus on the bigger picture.
+
+**5. Communication with Agencies:** If you're working with an agency, clearly communicate your goals and the importance of new customer acquisition. Make sure they align with your growth strategy.
+
+Remember, a well-balanced approach that prioritizes both new and existing customers will set you on a path to sustainable, long-term success."
+LogisticsHub,DoorDash's latest report reveals key insights for third-party logistics providers:,2023-10-21,https://www.reddit.com/r/LogisticsHub/comments/17ckq9x/doordashs_latest_report_reveals_key_insights_for/,1,"📈 Changing Landscape: 62% of consumers order consumables online more often, and 81% purchase through third-party apps like DoorDash. This shift creates a massive opportunity for 3PLs.  
+
+
+⏱️ Speed and Convenience: Consumers prioritize convenience (74%), ease of use (48%), and speed (46%) when shopping online. DoorDash's 33-minute average delivery time ensures quick, convenient access.  
+
+
+💡 Impulse Buys: Online shoppers increasingly add impulse purchases, with 60% willing to buy new products while browsing. It is a great chance for 3PLs to promote additional items.  
+
+
+📣 Advertising Evolution: Consumers are receptive to discovering new brands through ads and promotions, making them a non-intrusive marketing channel.  
+
+
+📦 Incremental Customer Base: DoorDash is 70-90% incremental to existing customer bases of grocery and convenience partners, reaching untapped consumers.  
+
+
+🛒 New Ad Capabilities: DoorDash offers advanced ad formats and tools to engage customers effectively.  
+
+
+3PLs seize the opportunity in the evolving digital commerce landscape with DoorDash's insights and ad capabilities."
+LogisticsHub,Is the Freight Brokerage Bubble Bursting?,2023-10-19,https://www.reddit.com/r/LogisticsHub/comments/17bnrxl/is_the_freight_brokerage_bubble_bursting/,0,"Sources say that several midsize freight brokers are in financial trouble.  
+
+
+This is due to many factors, including collapsing market fundamentals and overcapacity in the market.  
+
+
+One of freight brokers' biggest challenges is the freight rate collapse. Spot and contract rates have been low all year, and there is no indication that they will improve anytime soon.  
+
+
+This strains brokers' margins, and many struggle to make ends meet.  
+
+
+Another challenge facing freight brokers is the overcapacity in the market. There are simply too many trucks chasing too few loads. This keeps rates low and makes it difficult for brokers to find profitable business.  
+
+
+The combination of these factors is leading to several freight brokerages failing.  
+
+
+This trend will likely continue as the freight market deteriorates in the coming months.  
+
+
+What does this mean for you?  
+
+
+If you are a shipper, you may be able to negotiate lower freight rates with your brokers. However, it is important to note that the quality of service may suffer as brokers consolidate and become more selective about the loads they accept.  
+
+
+If you are a trucker, you may have to be more prepared to negotiate rates and be willing to take on less profitable loads. It is also important to have a good relationship with your broker so that they are more likely to give you priority when loads come in.  
+
+
+If you are a freight broker, you need to be very careful about the business you accept. Be sure to vet your customers carefully and avoid working with shippers who are at risk of bankruptcy. You also need to be prepared to negotiate rates and offer flexible terms to your customers.  
+
+
+The freight market is in a state of flux, and it is important to be aware of the latest trends. This will help you to make informed decisions about your business and protect your bottom line."
+LogisticsHub,Customer expectations are soaring.,2023-10-19,https://www.reddit.com/r/LogisticsHub/comments/17bnbdq/customer_expectations_are_soaring/,0,"They demand more personalization, options, and unique experiences. Online shopping, now at 22% of all sales (up from 15% in 2019), is a game-changer.  
+
+
+What's Changing for Manufacturers?  
+
+
+1. Online sales are reshaping manufacturing processes and customer data handling.  
+2. Servitization is expanding, focusing on post-sale services.  
+3. Agile factories are enabling mass customization.  
+
+
+How to Prepare:  
+
+
+Embrace digital solutions, especially immersive virtuality (IV). It offers realism and personalization, empowering sellers to tailor online sales experiences.  
+
+
+Virtual twins, in particular, enable in-depth product modeling and immersive engagement, connecting sellers and customers like never before.  
+
+
+The retail revolution is here—embrace it to meet evolving customer expectations!"
+LogisticsHub,"We all know Amazon as the E-commerce giant, but they are slowly becoming a logistics behemoth.",2023-10-18,https://www.reddit.com/r/LogisticsHub/comments/17avpu3/we_all_know_amazon_as_the_ecommerce_giant_but/,0,"Supply Chain by Amazon represents the latest chapter in the company's ambition to become a dominant player in the logistics industry.
+
+It's a comprehensive offering that covers the entire supply chain, from manufacturing facilities to customers' doorsteps worldwide, to replace various businesses responsible for tasks like ocean freight, customs clearance, ground transportation, and inventory storage.
+
+This integration could redefine the logistics landscape, offering clients an end-to-end solution that only a behemoth like Amazon can provide.
+
+But we've seen this before with Amazon Web Services (AWS). Initially, AWS was developed to fulfill Amazon's internal needs before opening it up to third-party merchants. This innovation led to AWS becoming a cornerstone of Amazon's revenue and a giant in the cloud computing sector.
+
+Amazon could potentially unlock a revenue stream exceeding $100 billion, propelling the company into the realm of logistics giants."
+LogisticsHub,Are any 3PL Owners on Here?,2023-10-18,https://www.reddit.com/r/LogisticsHub/comments/17aar7i/are_any_3pl_owners_on_here/,0,"Need a 3PL in:
+
+&#x200B;
+
+* Canada 
+* Australia  
+* Texas, USA 
+
+Message me "
+LogisticsHub,"Who Will Be the Leader in Social Commerce Platforms: Instagram, Facebook, Pinterest, or TikTok Shop?",2023-10-17,https://www.reddit.com/r/LogisticsHub/comments/179j9ay/who_will_be_the_leader_in_social_commerce/,0,"Social commerce is the integration of social media and e-commerce, and it is rapidly growing in popularity. 2022, social commerce sales reached $500 billion and are expected to reach $1.2 trillion by 2025.  
+
+
+Instagram, Facebook, Pinterest, and TikTok Shop are all major social media platforms that are investing in social commerce. They all offer features that allow businesses to sell products directly to their followers.  
+
+
+Instagram is currently the leader in social commerce, with over 2 billion active users. It offers a variety of features that make it easy for businesses to sell products, such as Instagram Shopping, Instagram Stories, and Instagram Live Shopping.  
+
+
+Pinterest is a newer player in social commerce, with over 450 million active users. It is a visual discovery platform that is well-suited for social commerce. Pinterest also offers a variety of features that make it easy for businesses to sell products, such as Buyable Pins, Pinterest Trends, and Pinterest Lens.  
+
+
+TikTok Shop is also a new player in social commerce, with over 1 billion active users. It is known for its entertaining and engaging videos, and it allows users to buy products directly from TikTok videos.  
+
+
+Let's talk sales in 2022:  
+
+
+Instagram: $50 billion  
+Facebook: $30 billion  
+Pinterest: $10 billion  
+TikTok: $5 billion  
+
+
+Who's going to be the leader?  
+
+
+I predict Tiktok Shop (so long as it doesn't get banned 😏 )  
+
+
+Instagram has a large and engaged user base of millennials and Gen Z, who are the two generations most likely to shop online. Additionally, Instagram offers a variety of features that make it easy for businesses to sell products, such as Instagram Shopping, Instagram Stories, and Instagram Live Shopping.  
+
+
+However, TikTok Shop has the potential to challenge Instagram for leadership in social commerce. TikTok Shop has a large and engaged user base of Gen Z, who are the most likely generation to shop online. Additionally, TikTok Shop offers a unique advantage in allowing users to buy products directly from TikTok videos."
+LogisticsHub,Over 75% of companies will embrace cyber-physical automated warehouse processes by 2027. 🤖,2023-10-16,https://www.reddit.com/r/LogisticsHub/comments/179aq6s/over_75_of_companies_will_embrace_cyberphysical/,0,"This means a remarkable shift from focusing on people to focusing on automation design.  
+
+
+As robots take on more responsibilities in process execution, we're on the brink of dramatic changes. Work assignment processes designed for human workers are set for a complete overhaul, especially as robotic fleets become increasingly diverse, requiring seamless coordination between various robot platforms.  
+
+
+🌍 Sustainability is Key! 🌿  
+
+
+That's not all! By 2027, over 50% of logistics functions will set new carbon emissions targets, aiming to be either carbon-positive or carbon-neutral by 2040. The supply chain industry is aligning with the global environmental responsibility push.  
+
+
+📦 Outsourcing Evolution 🤝  
+
+
+More than 60% of large businesses are leaning towards adopting fourth-party logistics (4PL) as their preferred outsourcing model, a strategic move to enhance supply chain transformation processes. This shift is poised to streamline and optimize operations on a significant scale.  
+
+
+🚚 Real-time Visibility is the Future! 📡  
+
+
+Near-real-time visibility in last-mile deliveries, with over 75% of deliveries in North America and Europe projected to have this capability by 2027. This will boost operational efficiency and enhance customer satisfaction and delivery reliability."
+LogisticsHub,Revenge Travel and the Slowing Economy: What It Means for Online Sales and 3PLs,2023-10-16,https://www.reddit.com/r/LogisticsHub/comments/178lrou/revenge_travel_and_the_slowing_economy_what_it/,0,"Revenge travel has been a major trend in the past year, as people have finally been able to take the vacations they had to put off during the pandemic.  
+
+
+However, the current economic slowdown is starting to impact this trend.  
+
+
+According to a recent survey by Deloitte, 40% of Americans plan to spend less on travel in the next year due to rising costs and inflation. This is bad news for online retailers, as travel is a major category of online spending.  
+
+
+In addition, the economic slowdown is also impacting the supply chain, which is making it more difficult and expensive for online retailers to get their products to customers. This could lead to longer shipping times and higher shipping costs, which could further deter consumers from shopping online.  
+
+
+So, what does this mean for 3PLs?  
+
+
+On the one hand, the slowdown in online sales could lead to decreased demand for 3PL services. However, on the other hand, 3PLs could play a vital role in helping online retailers reduce costs and improve efficiency.  
+
+
+For example, 3PLs can help online retailers consolidate their inventory into fewer warehouses, saving money on rent and logistics costs. Additionally, 3PLs can help online retailers optimize their shipping routes and delivery methods, saving money and reducing shipping times.  
+
+
+3PLs are well-positioned to help online retailers weather the storm and come out stronger on the other side.  
+
+
+Here are some specific ways that 3PLs can help online retailers during the economic slowdown:  
+
+
+\- Consolidated inventory: 3PLs can help online retailers consolidate their inventory into fewer warehouses, saving money on rent and logistics costs.  
+\- Optimized shipping: 3PLs can help online retailers optimize their shipping routes and delivery methods, saving money and reducing shipping times.  
+\- Reduced costs: 3PLs can help online retailers reduce their overall costs by offering various competitive services.  
+\- Improved efficiency: 3PLs can help online retailers improve their efficiency by automating tasks and streamlining processes.  
+\- Scalability: 3PLs can help online retailers scale their businesses up or down as needed without investing in additional infrastructure or staff.  
+
+
+By working with a 3PL, online retailers can focus on their core business of selling products and let the 3PL handle the logistics. This can free up time and resources that can be used to grow the business."
+dropshipping,Beginner's Guide to Dropshipping,2023-03-21,https://www.reddit.com/r/dropshipping/comments/11xm1fw/beginners_guide_to_dropshipping/,121,"This guide is being written by the members of /r/Dropshipping with the aid of the mods in order to help newcomers find valuable information, avoid scammers, and get off to a more successful start in their Dropshipping endeavors. 
+
+This document is: **A WORK IN PROGRESS** - more will be added over the coming weeks as we build it together. If there is a topic you want covered please leave a comment below or start a discussion in the sub.
+
+**Navigation Guide**    
+*(highlight and search document for the heading you want to jump to)*   
+
+I. Introduction  
+- Definition of Dropshipping  
+- The First Sale Doctrine and Dropshipping  
+- Types of Dropshipping  
+- Benefits of Dropshipping  
+- Challenges of Dropshipping   
+- How to use This Subreddit to Become a Better Dropshipper   
+-- How to Detect a Reddit Scammer/Spammer   
+-- General Tips on Using The Sub   
+II. Starting Your Dropshipping Business   
+- Selecting a Platform for Your Store   
+- Preferred Apps for Shopify  
+- How to Select a Niche  
+-- How do you know which niche to target?      
+-- How narrow or broad should your niche be?    
+- How to Find a Winning Product
+-- What is a Winning Dropshipping Product Anyways?  
+-- Where to Find Winning Products for Dropshipping  
+-- Should you start with only one product or build a massive store overnight?   
+III. Marketing Your Dropshipping Store / Products   
+- Possible Marketing Channels   
+- What Marketing Channels Other Dropshippers Find Successful    
+- Known Successful Marketing Approaches   
+
+
+
+#I. Introduction
+
+##Definition of Dropshipping
+A method of retail sales where the store does not maintain a physical inventory of products in stock but instead purchases the item from a third-party (typically the manufacturer or wholesaler) every time they make a sale and have the third-party ship it directly to the end consumer.
+
+##The First Sale Doctrine and Dropshipping
+The First Sale Doctrine is a USA legal principle that allows the buyers of a product to resell that product no matter what the copyright holder desires. This is incredibly important for dropshippers to understand.
+
+From the Justice.gov website: ""The first sale doctrine, codified at 17 U.S.C. § 109, provides that an individual who knowingly purchases a copy of a copyrighted work from the copyright holder receives the right to sell, display or otherwise dispose of that particular copy, notwithstanding the interests of the copyright owner. The right to distribute ends, however, once the owner has sold that particular copy. See 17 U.S.C. § 109(a) & (c). Since the first sale doctrine never protects a defendant who makes unauthorized reproductions of a copyrighted work, the first sale doctrine cannot be a successful defense in cases that allege infringing reproduction."" 
+
+read more here: https://www.justice.gov/archives/jm/criminal-resource-manual-1854-copyright-infringement-first-sale-doctrine
+
+In essence the First Sale Doctrine allows the owner of a legally-purchased copy of a copyrighted item to sell or transfer that particular copy without obtaining permission from the copyright holder. This means that once a person lawfully purchases a copyrighted product, they have the right to resell it without infringing on the copyright owner's exclusive rights. You've seen this at resale shops, garage sales, online auctions, etc...
+
+In the context of dropshipping, the First Sale Doctrine can be relevant because it allows dropshippers to sell products that they have legally acquired from a supplier without obtaining permission from the copyright holder. As long as the dropshipper has legally purchased the products and the products are genuine, they can be resold without infringing on the copyright owner's exclusive rights.
+
+However, it's important to note that the First Sale Doctrine has its limitations. For example, it doesn't protect dropshippers who sell counterfeit or pirated products. If a dropshipper sells counterfeit or pirated products, they could still face legal action from the copyright owner. Copyright owners might also try and limit the usage of their copyrighted works from unauthorized dropshippers including photography, video, marketing materials, and other copyrighted works related to the product being sold.
+
+In addition, some copyright owners may try to limit the application of the First Sale Doctrine by imposing restrictions on the resale of their products. For example, some software manufacturers include license agreements that prohibit the resale of their products. In these cases, dropshippers would need to comply with the terms of the license agreement or risk infringing on the copyright owner's exclusive rights.
+
+When starting your dropshipping venture the First Sale Doctrine can be an important legal principle for you to understand and navigate, as it can impact your ability to sell certain products without infringing on the copyright owner's exclusive rights. 
+
+**Example in the Wild:**  
+There's an example out of Texas where an entrepreneur started selling products from the gas station Buc-ee's who does not have their own online store. Buc-ee's can't stop the resale, but they were able to request that the seller change the name of the store so that it did not confuse consumers that the store might be official. That entrepreneur visits their local Buc-ee's once per week, takes photos, selects new products to sell, and charges a fee to buyers for their efforts. *(note: This isn't exactly dropshipping since the merchant buys the product at retail then ships it themselves. It is merely an example of the First Sale Doctrine being applied currently)*
+
+##Types of Dropshipping  
+There are a lot of different configurations that all fall under the umbrella of 'dropshipping'. Here we are just trying to give you some basic descriptions of some of the main ones:  
+
+* **Classic Dropshipping** - Simple enough, you sell a product at markup and order it from the manufacturer/wholesaler and they ship it to your customer for you. Most often this is done via ecommerce and is designed so the company has almost zero overhead outside of marketing materials.   
+* **Print on Demand Dropshipping** - In this configuration a garment / object printing company uses expensive direct to product printing machines to print orders but also keeps the garments / objects in stock, ships them out on your behalf, and may also offer automation to keep your website / storefront updated.  *Note: this might also include a 3d-printing company or waterjet company*
+* **Private-Label Dropshipping** - This is where a product is produced when your order comes in then packaged in a type of packaging you specify and your label added to the packaging before being shipped to your customer on your behalf.   
+* **Retail Extension Dropshipping** - In this configuration a dropshipping merchant partners with a brick and mortar store that has no desire to run an online operation. They make a custom deal with this store and then sell their products online at a markup. When a sale comes through, the retail store fulfills it.  
+* **Product Creation Dropshipping** - This is where a merchant might bundle products or pieces from the inventory of a supplier to create an entirely new product, sell that product via their website, and then have all of the pieces shipped out by the supplier to the customer. This is extremely rare.   
+* **Virtual Kitchen Dropshipping** - In this configuration a local virtual kitchen is used to create food orders on-demand for your customers based on a recipe you create. The food is then typically also shipped/delivered by the kitchen or a delivery company they or you have an agreement with.   
+* **Showroom Dropshipping** - In this type of Dropshipping, often referred to as ""Factory Direct"", a physical retail showroom is built where consumers can touch and feel examples of merchandise, but the merchant orders the product directly from the manufacturer instead of selling the floor model or a model from their own warehouse. This has become extremely common with furniture retail allowing smaller furniture stores to sell more inventory and have far lower overhead. Some argue this is not exactly dropshipping since the merchant sometimes has to purchase a small amount of inventory and sometime sells the floor model (especially when it is outdated). This is unlikely a good fit for a first time dropshipper.   
+* **Sales Rep Dropshipping** - Most frequently this is done using commissioned sales representatives who go door to door selling a product or selection of products. Once the order is received by the sales representative they hand it off to a fulfillment team who then order it from the supplier to be shipped. This type is cumbersome to get started but might fit in certain areas. For example Quill sends reps door to door in office buildings taking orders for office supplies, since they are owned by Staples the office supplies are then shipped from a nearby Staples retail store or warehouse. Quill is not a dropshipper, but the same tactic is applicable, with a similar markup scheme. Like Showroom Dropshipping this would require a tremendous amount of effort and is probably most often not worth it. While door to door is the main way this is/has been applied it could also be done via catalog or phone calls where a sales rep is assigned to a client and takes the orders. What makes this tick is the human to human connection between the sales rep and the target client. It gets messy when the sales reps leave (which happens often) or the client's needs are changing quickly. Unless you have an amazing face to face personality, a big ticket item that is frequently needed and can be easily marked up 50% to 75%, and a known target customer group that is largely stationary, this is probably not a great fit.
+
+##Benefits of Dropshipping  
+1. **Less Upfront Capital Required** - Since you do not need to purchase bulk inventory to start dropshipping your costs will be far lower than starting a traditional retail store or ecommerce store.  
+2. **Easy to Start** - With dropshipping you won't have to worry about things like packaging, shipping, managing a warehouse, managing inbound returns (unless you choose to), or keeping your products in stock.  
+3. **Low Overhead** - Since you are not keeping inventory in stock you have a much lower overhead to worry about. You do not need a 3PL of fulfillment service, have to build or rent a warehouse, have to pay warehouse workers, have to establish your own logistics, have to license warehousing software or robots, etc...   
+4. **Flexible Location** - With Dropshipping you can do it from anywhere. You can be in a beach house in Bali selling winter coats in Canada.   
+5. **Wide Selection of Products to Sell** - As a dropshipper you can sell virtually anything that is in stock and doesn't have any legal issues surrounding it (i.e. copyright infringing products). This gives dropshipping businesses ultimate control over what products they do and do not list.   
+6. **More Free Time / Or Side Income** - Once you have built a successful dropshipping operation you can stop working your full-time job and spend more free time doing what you want if you wish OR you can use dropshipping as a ""side hustle"" to make side income. This is because once smoothed out and working correctly, dropshipping can be incredibly efficient to operate. This is especially true for dropshipping stores that sell only a few items and those items are not just trending at the moment. Of course, once you find success in dropshipping you might want to devote more time to it, but the reality is that it is possible to take control of your own time versus a more traditional 9 to 5 work model.      
+7. **Easier to Test** - Because you have such little overhead and requirements, you can test out a dropshipping model quickly, easily, and inexpensively.     
+8. **Easier to Scale** - In many ways dropshippping is easier to scale than a traditional retail or ecommerce operation. Again, this largely goes back to lacking physical inventory. As long as your process of making a sale and then ordering from the provider is smooth, scaling can be done with far lower effort.  
+
+##Challenges of Dropshipping   
+1. **No Inventory Control** - Since you are not manufacturing the products or buying in bulk, popular products will not always be available from your supplier. For example a new streetwear t-shirt brand gets hot suddenly and you list it for sale on your website as in stock but they sell out quickly. Having to adjust your own inventory controls separate to the marketplace can be time consuming and cumbersome. This might also lead to erroneous sales, a poor customer experience, and bad online reviews / word of mouth about your store. There are some ways to mitigate or automate this, but most of them are still not great or have gone out of business. This is something you want to have a complete understanding of for every product you list for sale.   
+2. **Low Profit Margins** - The biggest drawback to a dropshipping operation is that you frequently will have to operate on thin or low profit margins. This gives you very little room for error and less budget for marketing/advertising.    
+3. **Low Barrier to Entry** - Because dropshipping is so easy to start doing, once a succesful niche has been identified it can quickly get burried in competition that spent almost nothing to get started. Because of the low barrier to entry those competitors oftentimes will drive pricing down in the space and can survive on much thinner margins if they can sell at increased volumes due to the lower pricing.    
+4. **Shipping Issues** - No warehouse, no 3PL or fulfillment service, means no control over the shipping. If you source from different suppliers (or even the same supplier with their own issues keeping products in stock) then you are going to run into issues and complaints from customers when it comes to shipping times/speed, and quality of delivery. That's just part of the game. To counter this you should buy your own products periodically to experience what your customers might experience and find ways to improve the customer experience from that angle.  
+5. **Branding is Much Harder** - It is extremely difficult to brand a dropshipping store largely due to the fact that you won't have any retail signage or customized packaging. Difficult, but not impossible. Affiliates have long had this problem as well, and it is easily overcome with content marketing and content curation, but these can be expensive to perform and you have to invest in what the brand means as well.     
+6. **Supply Chain Issues** - When a problem happens in one of your many supply chains, as was a frequent occurrence during the COVID pandemic, consumers will look to you for help. You need to be prepared to make up for lost deliveries, broken items, etc... This problem grows exponentially the more products you carry from different suppliers.    
+7. **Hard to Find a Niche / Segment** - Because of how easy dropshipping is to get started, the mind-bogglingly amount of products available, and the various other drawbacks mentioned above - it can be extremely difficult for a dropshipper to find a niche or segment and settle into it. First timers might feel the temptation to sell a myriad of different unrelated products as if they were their own mini-Walmart or mini-Amazon. Fighting that temptation and sorting through all of the available options to find a specific product or set of products can be difficult.
+8. **Platform Policies and Rules** - Some (*or every*) platform (*i.e. eBay, Etsy, FB Marketplace, Amazon, FB Ads, etc...*) where you can sell products may have rules dramatically limiting how you can build your dropshipping business. Make sure you familiarize yourself with these rules and policies before you start building on a platform, because if you are in violation they can easily delete it all and send you back to square 0.
+
+##How to use This Subreddit to Become a Better Dropshipper
+No lies, this sub (and others dedicated to the industry) are filled with spammers and scammers. They compound the difficulty in making dropshipping work as they often: provide low quality help/tools, try to sell stolen works, repeat basic knowledge about the industry, are not experts or even experienced in retail/ecommerce/dropshipping.
+
+Your mods (and Automod) work hard to remove these bad actors, but we can only do so much and ultimately a handful always slip through the cracks.   
+
+###How to Detect a Reddit Scammer/Spammer   
+In general, it helps to be really skeptical of anyone's motives in this space, but here are some tips to help you avoid the scammers that want to steal your money and derail your journey.   
+
+1. **Before you start believing someone look at their account.** Scammers and Spammers almost always have to create new accounts as they get banned by mods/admins frequently. A new account with low comment karma and a lot of comments that look identical or really similar should be a massive red flag.   
+2. **Look for clues in what they are selling / promoting.** Scammers and spammers often try to do the least amount of work possible to rip you off. A big red flag is if they are trying to give you a course/ebook/webinar created by someone else. If they are giving it free, it's probably malware; if they are selling it then it could be outdated/incomplete and most likely is stolen (i.e. ill gotten gains). If they are promoting a website or SaaS or dropshipping related service then examine their motives and their connection.  
+3. **Did they ask you to DM them or did they DM you?** This is almost exclusively going to be spam or scam related activity. Real businesses in dropshipping / retail / wholesale are either too damn busy for one-on-one DM conversations or they have a web team dedicated to these conversations that would be explained on their website, in videos, and across social media. Everything else is probably not worth it.   
+4. **Are you being shown some eye-popping hard to believe Shopify sales screenshot or video?** This is a big one for scammers, they like to show a stolen or faked Shopify sales dashboard screenshot that has $x,xxx,xxx in sales over a 30-day period and claim to have the golden ticket for you to get the same amount for some low price. It sounds tempting and could be true, but it's probably snake oil and fraud instead.   
+
+###General Tips on Using The Sub   
+
+1. **Always flair your posts!** - (*note: this is now a requirement*) While new to the subreddit, flairing allows users who come here to be helpful with others a way to easily find your post and get involved in the conversation. Anyone requesting a site review, a product review, or marketing/copy/etc... review should use the ""Review Request"" post flair. Anyone trying to buy or sell a service (even if offered for free) should use the ""Marketplace"" flair. If you're asking a single question use the ""Question"" flair and if you're trying to start a discussion about an industry topic use the ""Discussion"" flair.   
+2. **Stop being so dang vague!** - A lot of posters to this subreddit only give partial information in their posts. For example ""I'm having trouble with Facebook Ads, thoughts?"" This is low quality and anyone who is skilled in this industry and interested in helping others will just keep moving right past it. Get detailed with your questions and discussion topics and you'll likely get more back in return. 
+3. **For those trying to promote their Mentorship/Agent/Designer/Marketing/etc... other services.** - Spamming the same comment over and over again will GET YOU BANNED. Please engage in AUTHENTIC discussion in this sub or leave. IF a link to your website is appropriate and naturally fits a conversation, then posting it is fine. Please walk a thin line and lean to the side of not spamming comments.  
+4. **Stop trying to post exact-match anchor text SEO spam!** - Using our sub to make a long-form post using ChatGPT then linking one of those words to your website/page is really dumb. First off it doesn't work and probably hasn't since about 2009, Secondly the moment a mod sees it we will mark the post as spam and ban your account. Instead create engaging content for the sub, again if your link is a natural fit to the content or has more information then it would be naturally appropriate to include it.  
+5. **No one is going to give you all of the secrets in one post!** - Not a single soul ever made money in this industry just doing what someone on Reddit told them to. If you want to build a business and be profitable you are going to have to do a lot of work on your own and learn a lot as you go. Do not make posts here asking tons of novice questions hoping the Jeff Bezos of Dropshipping will see it, take pity on you, and give you the secrets to being a millionaire. There is actually a secret and here it is - it is hard work. Instead, use our sub to ask SPECIFIC questions when you get stuck or bounce ideas off of other dropshippers.  
+
+
+
+#II. Starting Your Dropshipping Business
+
+##Selecting a Platform for Your Store
+With Dropshipping you really just need 3 things: A website capable of closing sales, a product to sell, and a way to reach potential customers. A lot of new dropshippers get stuck on building the website as there are never-ending ways of building a site these days and even no-site options such as Facebook Marketplace, eBay, Amazon, and Etsy. 
+
+When we ran a poll last year /r/Dropshipping overwhelmingly preferred one CMS over all other options: Shopify. 
+
+See that poll here: https://www.reddit.com/r/dropshipping/comments/rv3ptc/mod_poll_best_website_platform_cms_for/
+
+Shopify is cheap but not free. As of publication the ""Starter"" plan is only $1 / month usd but is usually $5 / month usd. They have free competitors such as Shift4Shop, Weebly, Ecwid, Wix, and BigCartel. 
+
+Shopify also has competitors that cost money without a way to use them for free, even if the CMS itself is free. Those include:   
+
+* WordPress+WooCommerce (free, but you will likely need paid plugins, a paid theme, and monthly hosting).    
+* BigCommerce   
+* Magento  
+* Squarespace  
+* LightSpeed    
+
+Again, Shopify tends to win out against most competitors. In some cases WordPress+WooCommerce might make sense for you, especially if you are good at managing hosting or doing some light coding work and want to build custom things for your store eventually. 
+
+##Preferred Apps for Shopify 
+The power of Shopify's simple to setup and use system is amplified by the third-party market of apps on their app store. These apps range in price from apps that are free to those that charge a modest monthly fee, and the range in application giving Shopify stores a ton of functionality not native to Shopify itself. App fees on Shopify apps help the developers maintain the code and keep updating it and pay for their server expenses to operate the app.
+
+This is a brief and non-comprehensive list of apps that are known to help Dropshipping merchants enhance their customer experience or increase sales in some fashion: 
+
+**SEO:Image Optimizer Page Speed App (Avada)**  
+URL: https://apps.shopify.com/avada-seo-suite  
+Price: Free or $34.95/month  
+
+What you can do: Compress images for faster page loading speed, more page speed options, broken link checker, meta tag optimization, alt attributes, and Google Search Console integration. 
+
+*Note: a recent price increase on their paid plan from $29/month to $34.95/month. You probably want to look for a cheaper or free alternative if they just keep increasing the price. SEO is important, but most is handled by Shopify. Biggest need is image compression and other page speed optimization.*
+
+**Jump Links**  
+URL: https://apps.shopify.com/toc  
+Price: $1.99/month or $9.99/month  
+
+What you can do: Add a Table of Contents to your Shopify blog posts automatically. If you write long-form blog posts with HTML headings these will be turned into a TOC. The higher plan level allows you to automatically promote related products which helps increase sales and builds internal linking.
+
+*Note: Lots of recent upgrades, only app that automates adding products to your blog. Great fit for dropshippers doing content marketing. Write great content, rank that content with SEO or drive traffic with social media, and grow sales.*
+
+**Ryviu**  
+URL: https://apps.shopify.com/ryviu  
+Price: Free, $6.99/month, $9.99/month,  $19.99/month  
+
+What you can do: Display reviews across your Shopify site wherever you want, import reviews with or without photos from a variety of sources, send emails to gather reviews from your own customers, add Question and Answer functionality to products. 
+
+*Note: You may want to be careful importing reviews from other providers. However, the rest of the toolkit is pretty solid.*
+
+**Ilana's JSON‑LD for SEO**  
+URL: https://apps.shopify.com/json-ld-for-seo  
+Price: $399 one-time fee  
+
+What you can do: Add rich Schema markup to your Shopify site in JSON-LD format. Enhances how your products appear in search results. 
+
+*Note: a recent price increase from $299 one-time to $399 one-time. Steep price for most. There are other ways to generate JSON-LD Schema for Shopify that are less expensive or even free if you know what you are doing.*  
+
+**Pebblely AI** 
+URL: https://apps.shopify.com/pebblely-ai
+Price: Free, $19/month, $39/month 
+
+What you can do: Pebblely allows you to make better product images using AI. Start with a source photo of your product and swap out the background for one of 17-pre defined photo-realistic backgrounds or describe your own to the AI.
+
+**Shopify App Resources:**  
+Because there are so many Shopify Apps we thought you might find these resources useful in helping you select the right ones for your store.  
+
+* /r/Dropshipping discussion on favorite Shopify App: https://www.reddit.com/r/dropshipping/comments/y6kpz3/mod_question_what_is_your_favorite_shopify_app/   
+* The best Shopify SEO apps reviewed: https://www.joeyoungblood.com/shopify-tips/shopify-seo-apps/  
+* The best Free Shopify apps: https://www.oberlo.com/blog/best-shopify-apps    
+* Most installed Shopify apps: https://storeleads.app/reports/shopify/most-installed-apps    
+* Popular Shopify apps based on votes: https://huntify.io/    
+
+##How to Select a Niche
+The number one tip successful dropshippers and merchants give to newcomers is ""find the right niche and you'll be successful"". 
+
+Unfortunately this is usually where the discussion ends and the new dropshipper is left wondering what it means. First off a niche is defined in the context of business as ""a specialized segment of the market for a particular kind of product or service."" For example Walmart, Amazon, and Target try to carry every product a consumer might need or want, but Microcenter wants to carry wider selection of computers and related electronics and Nebraska Furniture Mart focuses on furniture. Niche's can be broad like those two examples or even more narrowly defined such as a business that only sells phone cases with unique designs or a business that only sells coffee tables. 
+
+So, how do you know which niche to target? How narrow or broad should your niche be? Should you start with only one product or build a massive store overnight? 
+
+Slow down there killer, let's take this in smaller chunks and answer each question one at a time. 
+
+**How do you know which niche to target?**  
+Selecting a niche is hard and there is no one real answer that fits every dropshipper. There are, however, some general rules to help you get started.   
+1. Stick with what you know - If you know a lot about building robots, or computers, or drones, or dolls then consider a niche in those areas. Is one of your parents an interior designer and as such you learned a lot about bathroom design growing up? Then consider bathrooms to be your niche. Sticking with what you know gives you a big advantage over most of the competition in the marketplace because most of your competitors big and small will have no knowledge and zero experience in the industry.    
+2. Pick a niche you are passionate about - Maybe you're a lawyer and discover that your real passion is Warhammer 40K. You could start looking at just Warhammer as your niche or board / card games in general. Similar to being knowledgeable about an industry, being passionate about what you dropship will give you a leg up on competitors who are just trying to make the most profit as quickly as possible.       
+3. Pick a niche with big ticket items - The simplest ways to make a lot of money is to make a lot of sales in small amounts or a few big sales. Think about a niche where the consumers are willing to pay big money, even without experience or passion for it you might be able to sell a few products and make a big profit.   
+4. Pick a niche with low prices and high margins - Another way to make money quick is to sell a lot of products at a cheap price that consumers consider a good price or even a deal. The pricing and volume of consumer need/want drives most of the sales here and your passion or knowledge might be less important.   
+5. Pick a nice that you are comfortable with - I know you have read or seen videos about how you can get rich fast with dropshipping. And while possible, it is probably more the exception than the norm. The reality is you will be doing this for at least a few years if not longer. So do not sell adult toys if you do not want to look at them daily, do not sell hygiene products for the opposite gender if it makes you uncomfortable.   
+
+The important thing to remember here is that NO ONE can tell you which niche to select. You can get input from family, friends, mentors, and even get-rich-quick influencers and you can get data from tools that track trends, but you have to make the decision on what to target. For example if you sell real estate as your full-time career and have zero interest in fitness, even if all of the people you trust and tools you use tell you that fitness is a winning product niche, you should avoid it and find something that might be less of a great target but that you can stick with.
+
+**How narrow or broad should your niche be?**   
+That is up to you. A few things to keep in mind here there though:  
+1. A narrow focus makes success easier in the short-term, but might provide friction to expanding your selection later.  
+2. Single product or a few product stores using exact match or near exact match domains might sell well for a small period of time and perform well in SEO and could be good targets to resell later on if you do not want to stick with them, but often (not always) lack the branding potential for long-term success.  
+3. A narrow focus is for easier to manage than a wide focus and vice versa. If you have only a little extra time to spare, then consider starting as small as possible.    
+4. In some cases consumers consider a wide focus messy or untargeted but trust a narrow focus more and in other cases it is the exact opposite. Before deciding how wide to start you might do some cursory research or thought experiments. For example if you sell dehydrators for beef jerky and use the domain ""BeefJerkyDehydrators.com"" you will lose access to consumers who want to store fruits and vegetables or use it for other things, but you would win for anyone wanting to make just beef jerky.   
+
+## How to Find a Winning Product
+Due to character limits by Reddit this section is in the comments here: https://www.reddit.com/r/dropshipping/comments/11xm1fw/beginners_guide_to_dropshipping/jm44zqc/
+
+
+#III. Marketing Your Dropshipping Store / Products
+Understanding and executing great marketing is paramount for your dropshipping venture to be successful. This is an incredibly deep topic, which we will only be able to touch on a little bit here. 
+
+##Possible Marketing Channels 
+Before you spend any money on marketing, it is important that you understand what a marketing channel is and how you might use them. A marketing channel is essentially a tightly-related group of sources where you can run marketing or advertising campaigns. Marketers often think of these like ""buckets"" helping them to visualize where sales come from, understand what buckets provide the best sales for the money spent, what the cost of sales in each bucket might be, and if it would be possible to gain more sales from a certain bucket.   
+
+* **Social Media Advertising** - Also called ""Paid Social"" or referred to as just the channel (i.e. Facebook Advertising). This is a marketing channel where you use photos or videos + advertising copy to reach your target audience and convince them to purchase your product. You pay each platform a fee, often in terms of number of people/accounts reached, in clicks to your site, or for a sale. 
+* **Organic Search** - The marketing tactic that targets this channel is known as ""Search Engine Optimization"" or ""SEO"". This is where you attempt to position your website/pages higher in a general search engine by doing things that might give that engine signals that you are better to rank highly than other options. In most cases this takes time to drive sales and to be effective, but you do not pay the engine a penny. Instead your expenses here are focused on whatever you believe will gain the right collection of signals/scores to obtain the rankings you desire.   
+* **Paid Search** - Also called ""PPC"" or ""Search Engine Marketing"" or ""Keyword Advertising"". This is where you buy ads on a search engine based on keywords your target customers might be using. Typically these ads are paid for on a per click basis or a target cost for each sale made.   
+* **Organic Social Media** - Also known as ""Social Media Marketing"" or just ""Social Media"". This is where you/your store brand simply engage in online public forums collectively known as social media in hopes of driving sales. You can build your groups on Facebook, subreddits on Reddit, twitter accounts, etc... and try to gain as many members/followers as possible from your target audience. Then post messages / marketing materials to them.   
+* **Content Marketing** - This is where you create content that your target customers might find really interesting or useful or funny. These target customers then help you by sharing the content on your behalf, driving Word-of-Mouth, and building inbound traffic. Some of that traffic can be shown products that they might want to purchase. Content can include blog posts, infographics, YouTube videos, podcasts, etc... 
+* **Email Marketing** - This is where you send emails to non-customers or current customers to try and drive sales. You might also run your own email newsletter or buy ads in email newsletters and consider those part of this marketing channel.  
+* **Podcast Advertising** - This is where you buy ads on Podcasts your audience might listen to in hopes of driving sales.  
+* **Out of Home** - Also called ""OOH"" or ""Traditional"" this marketing channel includes things like billboards, bus benches, subway advertising, terrestrial radio, or other things that are often found by consumers while they are out and about in their city / area.  
+* **Over the Top** - Ads on video streaming provides such as Roku and Hulu are often called OTT.  
+* **Influencer Marketing** - Where you pay social media influencers with large followings to drive sales for your store.  
+* **Public Relations** - Also called simply ""PR"" this is where you hire a PR agency or consultant to help you develop campaigns that seek to gain organic media mentions in the press, which then drives branded searches, which drives traffic to your website.   
+* **Referrals** - A more nebulous channel where traffic and sales are derived from organic mentions that include links not placed or controlled by you, your staff, or your contractors/agencies. This is essentially tangential traffic that happened to come to your website and make a purchase and is difficult to build marketing plans for. For example if you did a PR promotion 4-years ago and a YouTuber talked about it, then included a link to this in their description, that link drove traffic, and some of those visitors purchased this might fall into your ""Referral"" channel because we know where they came from but did not use direct marketing to obtain the referring traffic. If this was a paid arrangement it would be our Influencer channel and if we determined it stemmed from our own social media work it would either go into our paid or organic social media channel. Because the origin is so hard to determine and because this channel is extremely difficult to target and optimize, especially as a beginner, you should just understand that it exists and focus efforts elsewhere knowing  there will be some bleed over.
+
+## What Marketing Channels Other Dropshippers Find Successful  
+We polled this subreddit to find what marketing channel dropshippers found the most successful.  You can view that poll here: https://www.reddit.com/r/dropshipping/comments/12avh86/mod_poll_what_marketing_channel_drives_the_most/
+
+We asked ""What channel drives the most sales for your operation?""  
+Here are the results:   
+
+* **Paid Social** - 50.0%  
+* **Social Media (unpaid)** - 21.73%  
+* **SEO** - 17.39%  
+* **Content Marketing** -  6.5%  
+* **PPC** - 4.3%  
+
+## Known Successful Marketing Approaches 
+The sub will lend more details here later. Based on the above channels and experiences here are the approaches known to be successful. They are not always going to be successful:  
+
+1. **Make a 9x16 video showing how the product works** (or hire someone to) and run this along with copy as a Facebook / Instagram / TikTok ad.  
+2. **Invest in QUALITY SEO tactics** such as inbound PR for link building, writing great product descriptions, and making your site more technically sound.  
+3. **Pay a social media influencer** to use your product for you. Works best on Instagram or Twitter or TikTok. FB Groups or Personal Facebook accounts might work too, but Facebook's algorithm destroys these kinds of posts on Pages.  
+4. **Build a closed Group** and use it to sell or bounce ideas off of your audience. You can do this on Facebook, Reddit, Discord, or possibly even LinkedIn.  
+5. **Setup a Google Merchant Center account** and gain free sales from Google or run Google Shopping Ads.  
+6. **Do Content Marketing or Curation using a blog** and when it is a good fit recommend your related product(s) to readers.  You can run ads to these, share them to your social media audience, use email marketing channel, or just allow them to bring in organic search traffic.   
+7. **Build a non-branded Humor-focused social media account.** On Twitter, IG, TikTok, Facebook, YouTube, or maybe even Reddit build a social media account that is focused on being funny about a topic or topics your target audience might be interested in. Then post your products to them from time to time or use this audience to drive traffic to another marketing channel (i.e. content marketing, email marketing, or paid social retargeting to name a few). For example an IG meme page for Nursing life called ""Nursing Memes"" for a store that sells scrubs.  
+
+
+
+-------------------------------------
+
+more coming soon"
+dropshipping,Mod Update: New Rules Out - Ban Hammer Dropping,2023-07-03,https://www.reddit.com/r/dropshipping/comments/14ox4r2/mod_update_new_rules_out_ban_hammer_dropping/,10,"Dropshippers, 
+
+We have updated the rules in this sub and have began enforcing them with gusto today in hopes of ridding our community of predatory users that come here to try and scam others.
+
+We have worked hard to make these rules fair, descriptive, and to ensure they will only adversely impact those who spam here in an attempt to scam or harm others.  
+
+While these rules are technically new, they merely codify things we have already been enforcing and give a little more clarity as to what is happening.
+
+Among the changes you might notice are banning users immediately if they reply to a post with phrases like ""come inbox"", ""check messages"", or ""inbox me"" - as well as clarity around what we consider to be ""Inauthentic Engagements"" i.e. various marketing tactics used to lure dropshippers into something that may not actually benefit them. 
+
+The new posted rules also give the mod team the ability to take down posts that are not descriptive enough. Right now on the homepage there's a top voted post simply titled ""Dropshipping"". Low quality posts like this make it hard for interested users to actually get involved, attract mostly scammers, and overall drag this sub down. Starting today we may remove these posts as non-spam and simply mark the rule violation allowing the OP to repost with a higher quality title or content.
+
+As users of this sub your input is highly valued. Please give us feedback on these rules and if there is something you would like to see us accomplish in the comments below."
+dropshipping,Drop shipping changed my life,2023-10-27,https://i.redd.it/ikths4uyhlwb1.jpg,22,"I don’t know if anyone remembers me in here, but a year ago I started drop shipping after a bad break up and it took over my life in the best possible way. I did an all nighter, had my website, product and marketing strategy ready to go in a matter of 12 hours, I ran a campaign and I posted this photo onto Reddit to show my success. 
+
+Im 100% willing to help any drop shippers out no strings attached, for free, there’s no course, no sign up, but I have a discord community where we all help each other succeed and I would love to help kickstart other newbies. 
+I also don’t do videos, but I do think having a fresh set of eyes could also help me. 
+
+DM me if you want to join our discord we’d be happy to have you."
+dropshipping,"Feedback on my store, does it look ready for paid ads?",2023-10-27,https://www.reddit.com/r/dropshipping/comments/17hg1ur/feedback_on_my_store_does_it_look_ready_for_paid/,3,"Need feedback on my store. I had run almost $600 ads for several products in total but just one had sales and it barely break even rest all others got no sales. Last time I even tried creative from viral ecom ads, got more link clicks but no sales. Please can you advise me where I am doing wrong?
+
+link: anpira com (dot in between)
+
+edit: just recently reset my whole store, took so many items off it. "
+dropshipping,What is the best way to find winning products?,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17harb4/what_is_the_best_way_to_find_winning_products/,10,"I dont know how i should find a good products for my dropshipping store, what is the tool or the way i should use to find a winning product?"
+dropshipping,Due Diligence with online supplier,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17heyj2/due_diligence_with_online_supplier/,6,"How to make sure that I do not get scammed with these dropshipping suppliers that I have met online ? 
+What should I ask them apart from the obvious customization, MOQ and etcetera to ensure that they are not scammers and legit ?"
+dropshipping,Is it possible to sell on tiktok store as a canadian,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17hep9n/is_it_possible_to_sell_on_tiktok_store_as_a/,0,"I am a canadian currently running multiple dropshipping stores but want to start a tiktok store. I see it is only possible as a US citizen. Is there anyway to still do it or I have to wait? If so do you guys know how long before they open it to Canada? And would someone in the US be interested in partnering? 
+Thank you"
+dropshipping,I am think to start a whole dropshipping store using fiverr. Will it work?,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17h5cmd/i_am_think_to_start_a_whole_dropshipping_store/,5,
+dropshipping,Mentorship,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17h81z1/mentorship/,2,"I have been dropshipping for a while now, pretty much know the ins & outs of it all. I do 100K months pretty much every month (Check out my posts for proof) 
+
+I have been getting flooded with messages about mentoring, let me know if thats something you would be interested in. It will cost a hefty amount.
+
+Pretty much will show you how to be successful dropshipping and do it with you step by step on calls. 
+
+Time zone is EST. Based in New York"
+dropshipping,Looking to start drop shipping,2023-10-27,https://www.reddit.com/r/dropshipping/comments/17hbaq2/looking_to_start_drop_shipping/,7,"I'm a nurse in ireland and want to start making some extra income.
+I'd like to start doing drop shipping for outdoor gear for hiking etc. 
+
+I haven't any experience in business or trading, so I am just wondering how I'd get started... I have money to invest into it for start up. 
+
+Let's say I wanted to sell a fleece. Where do I start and what are the steps until it gets delivered? 
+
+Hoping someone can help!"
+shipstation,Alternative Shipping Software,2023-10-26,https://www.reddit.com/r/shipstation/comments/17gzllv/alternative_shipping_software/,1,"Hello. I work for a company that sales wholesale products. We ship roughly 1000 orders a day. We tried integrating with Shipstation recently, and it is failing us badly. Constant issues with losing scales and printers, orders not always importing over. It's been a mess and our warehouse crew is unhappy and wishes we could go back to our ShipExec software, but the cost is too high for licenses and server licenses.
+
+Are there any better alternatives people have found?"
+shipstation,Z,2023-10-25,https://www.reddit.com/r/shipstation/comments/17fzgfu/z/,0,
+shipstation,ShipStation Barcode Scanning Issue,2023-10-25,https://www.reddit.com/r/shipstation/comments/17fl986/shipstation_barcode_scanning_issue/,0,"If I start scanning an order and scan the barcode of an incorrectly picked item, I can no longer scan anything else. It will not let me complete the verification process and is like the site is not even registering the scanner being used. So if we come across an item that is picked wrong, scan it, we then have to completely refresh the page and start over. Huge hassle and a major mess up to the workflow. Has anyone had this issue? I contacted customer support."
+shipstation,Shipstation Connect Disconnecting Constantly,2023-10-21,https://www.reddit.com/r/shipstation/comments/17d1srz/shipstation_connect_disconnecting_constantly/,3,"Has anyone found a work around for SS Connect disconnecting all the time? Refreshing the connection is no help. The only work around is uninstalling and reinstalling. Its very temperamental if SS Connect works. I run both a printer and scales via USB to MacBook. 
+
+Customer service has helped but all they recommend is uninstalling and reinstalling the program. 
+
+Im considering moving away from SS to another platform if this can't get resolved. "
+shipstation,Shipstation Connect Disconnecting Constantly,2023-10-21,https://www.reddit.com/r/shipstation/comments/17d1sr9/shipstation_connect_disconnecting_constantly/,3,"Has anyone found a work around for SS Connect disconnecting all the time? Refreshing the connection is no help. The only work around is uninstalling and reinstalling. Its very temperamental if SS Connect works. I run both a printer and scales via USB to MacBook. 
+
+Customer service has helped but all they recommend is uninstalling and reinstalling the program. 
+
+Im considering moving away from SS to another platform if this can't get resolved. "
+shipstation,Do you have a workaround with Multiple FBAs?,2023-10-06,https://www.reddit.com/r/shipstation/comments/171cq6t/do_you_have_a_workaround_with_multiple_fbas/,3,I want to connect multiple FBAs to shipstation unfortunately I was informed that it can only cater to 1 FBA connection. Do you have a workaround for this?
+shipstation,Hiw do I get my freakin $20 back?,2023-09-12,https://www.reddit.com/r/shipstation/comments/16gu14j/hiw_do_i_get_my_freakin_20_back/,1,"I joined Shipstation to use it for my Etsy business. They took $20 from my bank, so I have a balance. I never shipped a thing, I found it way too complicated and time consuming so I deactivated and requested my $20 back. I still have a $20 balance.  I figured I would just burn the $20 if they wouldn't give it back to me, so I tried to print a shipping label. Says I can't print a label without membership. How in tarnation do I get my $20 back?"
+shipstation,ShipStation Connect Dymo LabelWriter 4XL Labels Off Center with Mac,2023-08-20,https://www.reddit.com/r/shipstation/comments/15wgo33/shipstation_connect_dymo_labelwriter_4xl_labels/,3,"When printing labels by downloading the pdf and also printing directly though ShipStation connect, the 4"" x 6"" Dymo LabelWriter 4XL labels are printing off-center to the left, cutting of the border frame.  I seem to recall having this problem initially using windows 10 and I resolved it by selecting the proper document format inside the windows printer settings.  I however I can't seem to find a similar settings inside the Mac software.
+
+Has anyone had similar issues that you were able to resolve?"
+shipstation,COD option has disappeared from ShipStation (UPS),2023-08-18,https://www.reddit.com/r/shipstation/comments/15twgxk/cod_option_has_disappeared_from_shipstation_ups/,0,"As stated above, we recently noticed the option to ship via COD has disappeared. I know that FedEx recently suspended their COD services but according to my searches online we should still be able to ship COD by UPS.   
+
+
+Anyone seen this issue or have any ideas why it is happening?"
+shipstation,Marking orders shipped from Etsy,2023-08-17,https://www.reddit.com/r/shipstation/comments/15syk2e/marking_orders_shipped_from_etsy/,1,"It’s been a while since I’ve used Shipstation. If I mark an order complete or “shipped” from Etsy will it show shipped in Shipstation? 
+
+I run multiply Etsy shops with a couple of different employees. Some of my orders are done digitally and some are shipped. I need a good way to be able to delegate orders between all of my employees and them still be able to use Etsy messaging."
+Flipping,Daily Newbie Thread,2023-10-26,https://www.reddit.com/r/Flipping/comments/17gszjn/daily_newbie_thread/,21,"Whatever you want to know about flipping, no matter the question, ask here. Even if it's been covered 1,000 times before. Doesn't matter if you're new or old. If you stop learning things, you're probably on your way out.
+
+\-If you're completely new to flipping, I highly recommend checking out our [Noob Guide](https://www.reddit.com/r/Flipping/wiki/noobguide) for some basic information about flipping to get you started!
+
+\-If you're wondering about how to start selling your thrift finds online, check out this [Complete Beginner's Guide to Ebay](https://www.reddit.com/r/Flipping/comments/5pf38k/complete_beginners_guide_to_ebay/?ref=share&ref_source=link)
+
+\-If you're wondering about how to start sending and selling books through Amazon check out this [Beginner's guide to flipping books with FBA](https://www.reddit.com/r/Flipping/comments/5pn3j8/here_is_my_free_beginners_guide_to_flipping_books/?ref=share&ref_source=link) 
+
+\-If you're wondering about what kind of stuff our members buy & sell, check out our previous [Weekly Haul](https://www.reddit.com/r/Flipping/search?q=title%3Aweekly+haul+author%3Aautomoderator&restrict_sr=on&sort=new&t=all) and [Flip of The Week](https://www.reddit.com/r/Flipping/search?q=title%3Aflip+of+the+week+author%3Aautomoderator&restrict_sr=on&sort=new&t=all) threads.
+
+This is an extremely newb-friendly thread. As such, any rudeness is to be reported."
+Flipping,Lessons Learned Thread,2023-10-26,https://www.reddit.com/r/Flipping/comments/17gszjq/lessons_learned_thread/,14,"What have you learned lately? Could be through a success or a failure. Could be about a specific item, a niche, flipping in general, or even life as learned through flipping.
+
+Do please keep in mind the difference between shooting the shit and plain bullshit and try to refrain from spreading poor advice.
+
+Try to stop in over the course of the week and sort by New so people are encouraged to post here instead of making their own threads for every item."
+Flipping,Fucker’s probably going to leave a bad review to get back at me but it was worth it,2023-10-27,https://www.reddit.com/gallery/17h96lt,16,"Selling an expensive purse. This dude hit me up. Thought he was interested but noticed he was from Belgium even though the listing is for a US pickup. Thought it was fishy and asked him to name a nearby train stop and he couldn’t. So I just sent him this, eventually he read it but still hasn’t replied because he knows I’m right 😂"
+Flipping,Checking comps and you come across this 😂 chances someone buys his shoes?,2023-10-26,https://i.redd.it/bsqxxliujkwb1.jpg,15,
+Flipping,Any Flipping Adjacent Career Paths?,2023-10-27,https://www.reddit.com/r/Flipping/comments/17hdldt/any_flipping_adjacent_career_paths/,1,"I've been flipping for years fluctuating between part time and full time.  I know I can make enough money to support myself; however, I am questioning if I want to continue down the traditional route.  Traditional being always on the hunt for items to resale for profit and all the time, effort, costs, and storage issues that come along with it.
+
+I have been daydreaming about snagging a support role for auctioneers, consignment sales, and estate auctions.  Helping with marketing materials, research, writing sales copy, etc.  I worked for a high end firearm auction house for a year and LOVED that type of work.  Researching all the firearms and keeping consignors happy so they would continue to consign their entire collections with us.  
+
+The catch is I live in the middle of nowhere now.  I do plan on moving back to civilization in the next few years; however, I can't find this type of work of locally.  It would have to be something I can do remote and I am finding ZERO options for remote work of this capacity.  I am finding lots of ads for remote auction house work but when you read the job description, they actually want local/on site assistance.  I understand that the nature of this type of work is very hands on but I feel like there HAS to be an avenue for me somewhere.  I wouldn't even mind taking on a 1099 independent sales role sniffing out consignors for high end consignment auctions for commission or getting paid a finder's fee. 
+
+Tell me--would I be embarrassing myself if I made a website or something offering my services and started cold contacting auctioneers and auction houses asking if they could use any remote assistance?  Is it just a bad/unviable idea?  I'm fully of the opinion it is not a service anyone wants but am hoping you all tell me it is! LOL"
+Flipping,Ok… hear me out… parting out motorhomes.,2023-10-27,https://www.reddit.com/r/Flipping/comments/17hfp0y/ok_hear_me_out_parting_out_motorhomes/,10,"You can get em for free or less than 500 bucks any day of the week because they sit and look like shit. Need a way to transport them, probably a flat bed two car trailer.
+
+But…
+
+Running motor (V8 big block in most cases), 500 bucks to start with.
+
+Functional automatic transmission, 300 bucks.
+
+Dually rear end, 200 bucks.
+
+Steering box, 100 bucks.
+
+Radiator, 50 bucks.
+
+Cats, 700 bucks.
+
+Power steering pump, 100 bucks.
+
+Windows, 50 bucks a piece.
+
+Generator, 300 bucks if it makes power.
+
+Cabinets, 20 bucks each.
+
+Appliances 15 bucks each.
+
+Could probably pull the gauges out and get 100 on eBay for the cluster.
+
+Wheels and tires, 200 bucks for a roadworthy set.
+
+Lighting fixtures, 5 bucks each.
+
+Roof AC, 150 working.
+
+Disposal cost for the carcass of about 50 bucks a ton, figure a gutted fiberglass shell is about 3 ton.
+ 
+Total profit for maybe a couple week’s work? 2,000 dollars.
+
+Am I insane or am I seeing decent numbers there?"
+Flipping,Expensive in-person transaction for cash,2023-10-27,https://www.reddit.com/r/Flipping/comments/17hcy0g/expensive_inperson_transaction_for_cash/,9,"I am selling an item for ~$15,000 Canadian Dollars cash locally. 
+
+The plan was to do transaction at police station for safety, however this wouldn’t allow me to verify the cash is legitimate, is it quite unlikely to have this much counterfeit anyway?
+I’ve heard of bank meetup snatch and grabs so hesitant to just meet there for my own safety, but then I could verify the cash to be the correct amount/legit.
+
+What is the best way to go about this transaction via cash?"
+Flipping,Had one of my best flips percentage wise recently,2023-10-27,https://www.reddit.com/r/Flipping/comments/17h5k9m/had_one_of_my_best_flips_percentage_wise_recently/,4,"Bought a collectable item for around $30 off eBay in March and sold it for about $400 on eBay in October.  Used no gas and almost no time, just repackaged and shipped. Never had to leave the house. Used the same box and packaging materials."
+Flipping,This is a scam right?,2023-10-27,https://www.reddit.com/r/Flipping/comments/17h8ogp/this_is_a_scam_right/,7,"There’s no way this is legit right?
+I got this message on eBay:
+Hey sorry to bother you, I recently tried to purchase but encountered an error that prevented me from doing so. Subsequently, I reached out to the customer service, who explained that the problem lies with the seller's account. Unfortunately, your account settings don’t allow new users to make purchases from you, and I’m new. Consequently, they advised me to share this link with you, which will allow you to make the necessary adjustments and enable me, as well as other users facing this issue, to buy from you."
+Flipping,Is this website legit?,2023-10-27,https://www.reddit.com/r/Flipping/comments/17hg18d/is_this_website_legit/,0,"Qbids quicklotz 
+
+Have any of you guys bought from them before? And or is there a better website out there?"
+supplychain,Notice on Spam Posts & Rule Enforcement,2022-01-06,https://www.reddit.com/r/supplychain/comments/rximwh/notice_on_spam_posts_rule_enforcement/,5,"Happy New Year everyone, I hope you're all staying safe and healthy.
+
+This is a quick note with regards to our rule regarding blog-spam. First, thanks to everyone who reports these posts. It helps us tremendously as we don't always catch them in time, please continue to do so. Second, I want to give notice to anyone thinking of posting something that may be spam related: if you think it may be removed, don't post it. Spam posts have increased and I am enforcing this rule strictly. Do not link to your websites for freight, do not link to your blog posts, do not link to your YouTube videos, etc. This is not a space to drive traffic to your personal websites and businesses. Student survey's and education requests should be posted in our Tuesday weekly pinned thread pertaining to this. Anything posted outside of that thread will be removed. 
+
+If all else fails, and you believe what you have posted may have value to the community, and it isn't advertising, shoot us a message. We'd be happy to discuss it if you have a valid reason for posting something that may otherwise be removed. 
+
+Thanks everyone, have a great week."
+supplychain,Wednesday: Industry News & Discussions,2023-10-25,https://www.reddit.com/r/supplychain/comments/17g244c/wednesday_industry_news_discussions/,0," 
+
+Happy Wednesday everyone,
+
+Please use this thread to post related news articles and discuss them, ask questions pertaining to your managed categories within your industry, and/or discuss any other industry news. Rule 3 still applies here, do not advertise your business or service."
+supplychain,How is the job market for Supply Chain looking?,2023-10-27,https://www.reddit.com/r/supplychain/comments/17hbi5n/how_is_the_job_market_for_supply_chain_looking/,7,"Hello, I currently work for a big multinational and there is a good chance I may be laid off by end of month due to restructuring. I have about 8 years of experience in manufacturing and logistics management. Have any of you gone through a job search recently? For reference I'm currently residing in the NYC area, anyone hiring out there right now or is the job market stale?"
+supplychain,Does your salary job require you to be there 40 hrs a week?,2023-10-26,https://www.reddit.com/r/supplychain/comments/17gy3kq/does_your_salary_job_require_you_to_be_there_40/,38,"Recently left the military and I’m surprised that at Boeing, salaried employees have to input hours online and wait for the clock to leave work, even if the work is done for the day.
+
+EDIT: Meant to ask like does your salary job require you to be present like an hourly employee? ( can’t leave early or stay late etc.)"
+supplychain,How can I build an excel/power BI tool to hold the scheduling team accountable for what they planned to produce versus what they actually did?,2023-10-27,https://www.reddit.com/r/supplychain/comments/17hahuy/how_can_i_build_an_excelpower_bi_tool_to_hold_the/,8,"I have their process order number, production dates going out 3 weeks, and I’d like to “freeze” what they committed to 1 week out and compare it on a daily basis of which PO they planned to run versus what PO they actually ran since right now I am seeing regular gaps of where we sometimes don’t know what they have scheduled or they will make changes and we won’t even know. 
+
+And ideally I’d like to somehow have them send a note if they remove something or swap a PO around, is there a way to simply do this without creating daily work for the schedulers? 
+
+Is there a visual way I can show this daily view to compare if they produced what they said they were going to and maybe create a metric for it?"
+supplychain,Certifications Help,2023-10-27,https://www.reddit.com/r/supplychain/comments/17h4psv/certifications_help/,3,"I have a background in engineering but Im working at a small company doing procurement, planning, contracts negotiations, vendor relations. I am looking for another position due to few red flags (like making payroll) and nowhere to go here. I haven't had any luck getting an interview with positions I have applied for (must be remote). I am thinking of getting a CPIM or CSCP certification. I would love to get my masters but can't quite budget it in right now."
+supplychain,Anyone willing to help a college gal out?,2023-10-26,https://i.redd.it/sj92mbamdiwb1.jpg,8,"I have this project where I’m to reach out to a professional in the career path I’m aiming for. I’m supposed to conduct an informational interview and it has to be someone I don’t know. 
+
+If you would like to help me out, please let me know and feel free to maintain the level of anonymity reddit affords (like no real names, vagueness etc) but if you would like to disclose more, feel free to reach out via a throwaway. 
+
+Thank you in advance and love ya!"
+supplychain,SKU insights like surplus inventory and what regions are moving the surplus the fastest,2023-10-26,https://www.reddit.com/r/supplychain/comments/17gxvfk/sku_insights_like_surplus_inventory_and_what/,11,"Anyone have any experience or looked into analytics software/services that can perform this? If so, did you find it helpful?"
+supplychain,Hospital- 3M Clean Trace,2023-10-27,https://www.reddit.com/r/supplychain/comments/17h3ud0/hospital_3m_clean_trace/,2,"What are you using for the 3M items that are never available? 
+- WTK Clean trace accessory kit
+- UXC100 Clean trace surface test"
+supplychain,Company promised WFH during interview process.. switch up stance after accepting,2023-10-26,https://www.reddit.com/r/supplychain/comments/17gm7jy/company_promised_wfh_during_interview_process/,18,"going to try and sum this up as best i can.. i just finished day 3 at a new job
+
+basically i was told in the interview process that i could work from home 2-3 days a week, i didn’t even want to interview for the job because its 40 miles from my house (1 hour there, 1 hour back home) but they promised WFH and relocation package so i was open to interviewing at least. i end up taking the job, they offer me exactly what i want (80k, 5k signing bonus, PTO, benefits etc). i didn’t even negotiate the offer because tbh i was really happy w the offer.
+
+
+my 1st day, boss mentions the WFH policy is 5 days a month, normally taken on fridays which was obviously contrary to what i was told in the interview process. i spoke to HR rep about my situation to see what could be done and im waiting to see what happens.
+
+its important to note that i don’t have in writing them telling me i get to WFH 2-3 days a week but it was 100% told to me and was literally the biggest selling point of the job considering its a far drive.
+
+what should i do?
+
+im expecting them not to let me WFH 2-3 days a week. should i just ask for more money? i was thinking about completely renegotiating my offer and asking for at least a 10k raise.
+
+please help"
+smallbusiness,"Promote your business, week of October 23, 2023",2023-10-23,https://www.reddit.com/r/smallbusiness/comments/17e9nmx/promote_your_business_week_of_october_23_2023/,115,"Post business promotion messages here including special offers especially if you cater to small business.  
+
+**Be considerate. Make your message concise.**    
+
+**Note:** To prevent your messages from being flagged by the autofilter, don't use shortened URLs."
+smallbusiness,What do you guys do for health insurance being self-employed? (USA),2023-10-26,https://www.reddit.com/r/smallbusiness/comments/17h207t/what_do_you_guys_do_for_health_insurance_being/,368,"Do you guys actually eat the $30k/year premiums? I mean there isn’t really much of an option, right? Just charge clients more? The only other option is to hope you don’t get sick and let the bill go to collections where you can then negotiate it down… this is a bit of a rant but also a genuine question
+
+I appreciate everyone’s replies and insight, thanks!"
+smallbusiness,I've developed a tool to convert voice notes into structured text: seeking your valuable feedback and suggestions!,2023-10-26,https://www.reddit.com/r/smallbusiness/comments/17gzr5c/ive_developed_a_tool_to_convert_voice_notes_into/,7,"Hi there 👋,  
+
+
+  
+I'm excited to share a project I've been working on over the past few months!  
+
+
+  
+My primary goal is to create a service that will be beneficial for people. The app is completely free and does not require registration. Please share your thoughts on this idea, and suggest any new features you think I should implement!  
+
+
+  
+Exciting Features:  
+• Speak to Write: with this feature, you can speak your thoughts or information and the tool will transcribe it into text. The best part? You can then forward the transcribed text to any application with just one click.  
+• Audio to Action Plan: the service can transform a received audio message into a structured list of elements or bullet points. This feature is especially useful for outlining an action plan or item list.  
+• Speak in any Language: you can dictate an audio message in your native language, and the service will translate it into any other language, maintaining high translation quality—significantly better than Google Translate.  
+• Meeting Transcripts & Summaries: the service is perfect for converting recorded audio from meetings into text and generating concise summaries. It supports the upload of users' files.  
+
+
+  
+Thank you for taking the time to check it out. I look forward to hearing your feedback. You can access the service by visiting this link: https://audionotes.ai 🙏"
+smallbusiness,Why did you shut down your “small” business?,2023-10-27,https://www.reddit.com/r/smallbusiness/comments/17h7ytm/why_did_you_shut_down_your_small_business/,24,"New to the sub Reddit so I apologize in advance if this has been discussed in the past. But I’m wondering if those who have closed your small businesses since 2019 have only done so due to the effects of inflation and the constraints it’s placed on the supply chain or if there are on any driving factors? My family had to close the restaurant recently and it was due to increases in raw material costs but after speaking to some Piers in the market, not everyone was that affected so I’ve become curious."
+smallbusiness,Google Ads did me dirty,2023-10-26,https://www.reddit.com/r/smallbusiness/comments/17h2xrg/google_ads_did_me_dirty/,23,"Signed up for a new Google Ads account to do some brand awareness and used a ""Spend $500, get $500 credit"" promotion coupon. Thought I'd be essentially getting a $1000 campaign for $500 and I was on a $500 budget. I fully qualify for the promotion and they do a great job making it seem like the credit will kick in as soon as you have fulfilled the initial $500 spend. 
+
+**HOWEVER**, way down in the fine print (and really just through a lot of searching through help forums on my part), the coupon could just be pending for 35 days. That means if you spend you first $500 in the first couple of weeks (like me), you will continue to be billed as advertising costs accrue and Google is not covering them. I now owe about $270 over the original $500 since I didn't catch this in time to suspend the advertisements. I'm disputing the overcharges through my bank, but doubt it'll work. Maybe I'll eventually get $500 in credit, but it will be too late for this advertising push and from what I've read they won't back credit.
+
+Google Ads customer service was worthless as they would just refer me back to their endlessly looping help website. 
+
+LMB, Google.
+
+TLDR: Don't believe it when Google tells you the promotional credit will kick in automatically. "
+smallbusiness,"I have very small business. Being offered to talk about mergers, ect.",2023-10-27,https://www.reddit.com/r/smallbusiness/comments/17hdof6/i_have_very_small_business_being_offered_to_talk/,4,"I am working on talks with a couple clients to invest in my small company to help fuel their grown and ours. There are a number of ideas going about. Short term investment, merger, long term contract deals. It should be noted that this was brought up initially by them. We were originally leaning/hoping for just solid LTAs. Redditor's thoughts and experiences are greatly appreciated! What are some things we should think about as we work through all this?"
+smallbusiness,"Contractors buying equipment for business end of the year for ""tax purposes""",2023-10-26,https://www.reddit.com/r/smallbusiness/comments/17gyhnz/contractors_buying_equipment_for_business_end_of/,92,"Posted this on personal finance subreddit but they removed it and said to try it here. 
+
+I hear this a lot from construction contractors. They will buy equipment for their business at the end of the year and say they do it for tax purposes. I'm talking equipment like multiple large pressure washers, fleet of lawn mowers etc. What do they gain from doing this at the end of the year??"
+smallbusiness,How do you offer payment plans without getting burned (US),2023-10-27,https://www.reddit.com/r/smallbusiness/comments/17hf8s4/how_do_you_offer_payment_plans_without_getting/,1,"One of the problems I've faced over the last few months is that I've got business owners who have said they want my website services but they can't afford it. Some have said they need to get business going so they can afford a website, but they need a website so they can get business.
+
+I started thinking about a bankruptcy business in Las Vegas that offers 3 payment plans.
+
+1) pay the regular way of all up front
+
+2) pay 40% up front, make payments over 12 months with a 35% mark-up
+
+3) pay $0 down and make payments over 12 months with a 50% mark-up 
+
+
+I wouldn't want to do $0 down. I also don't want to do longer than 6 months.
+
+Here's my idea:
+
+Say someone wants a 4 page static website. They will need web hosting. Total would be $2350.
+
+They could do the standard 1/2 down with the rest upon completion. 
+
+or
+
+They could pay $470 a month for 6 months for a total of $2820, or a 20% mark-up. Once paid for, they are only responsible for yearly hosting or on demand services like maintenance or SEO.
+
+Payments would be automatic via credit card and because it's on my hosting they could be turned off for non-payment after 15 days.
+
+I've seen services like Affirm or After pay but I have no idea how to go about doing something with them. 
+
+Thoughts?"
+smallbusiness,Sweat Equity in Existing Business?,2023-10-27,https://www.reddit.com/r/smallbusiness/comments/17h9b2z/sweat_equity_in_existing_business/,6,"I'm in the after school enrichment space (think dance, coding, robotics, etc), and run a successful and profitable company. The company more or less runs itself now, and I spend 3-5 hours per week on it.
+
+I've been looking for a new project and was presented an opportunity to help a similar business (albeit in a different discipline) that is struggling. I know enough about the enrichment space in general, and already have a significant reach in the area (while we teach different things, there is a high amount of overlap in students that would be interested in both) to provide value. I should also mention that I am independent, and the new business is a franchise.
+
+The question is, if I were to come on board, how would you structure my compensation?
+
+As mentioned, the business is struggling, so I don't want to be on payroll and burn their cash. I was thinking some sort of equity play, and at our initial meeting we were thinking the following: 1) agree on  a value of the business in its current state 2) give me a small piece of equity in that 3) earn a larger piece on the delta between the future sale price and the current valuation. 4) I was clear that I won't be on the lease, or on the hook in any way with the franchise. edit: 5) I also mentioned in the meeting that I'd need some sort of mechanism in the event that the company starts making significant money but the majority owners decide not to sell. While I mentioned this, I'm not quite sure how to address it.
+
+I only get burned and left with nothing if the business goes belly up. I'd guess that there is about a 30% chance of this happening, but there is tremendous upside considering that it's risk free.
+
+Am I thinking about this in the right way? Or would you try to structure this differently if you were in my shoes?"
+smallbusiness,Tell me a skill and I’ll try to mock up a mini Sales GTM for making it work b2b,2023-10-27,https://www.reddit.com/r/smallbusiness/comments/17hd4gw/tell_me_a_skill_and_ill_try_to_mock_up_a_mini/,5,"I’ve done a few different businesses and usually focus on B2B. 
+
+Are there any people out there with an amazing skill but where they are a fearful to take the plunge into entrepreneurship? 
+
+Or they have gone on their own but struggle to scale themselves?"
