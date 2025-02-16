@@ -1,0 +1,1819 @@
+[
+  {
+    "id": 58846,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T12:30:00",
+    "date_modified": "2022-09-08T12:34:03",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "159.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_5ShUSg1tPZZsN",
+    "billing": {
+      "first_name": "Rohaya Latip",
+      "last_name": "",
+      "company": "",
+      "address_1": "10 Jln Ramal suria 4, Taman Ramal suria",
+      "address_2": "",
+      "city": "kajang",
+      "state": "SGR",
+      "postcode": "43000",
+      "country": "MY",
+      "email": "hairul_ayu@yahoo.com",
+      "phone": "0133548424"
+    },
+    "shipping": {
+      "first_name": "Rohaya Latip",
+      "last_name": "",
+      "company": "",
+      "address_1": "10 Jln Ramal suria 4, Taman Ramal suria",
+      "address_2": "",
+      "city": "kajang",
+      "state": "SGR",
+      "postcode": "43000",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58846",
+    "meta_data": [
+      { "id": 1758678, "key": "wcb2bsa_sales_agent", "value": "13805" },
+      { "id": 1758679, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758680, "key": "wcb2bsa_created_by", "value": "sales_agent" },
+      { "id": 1758699, "key": "slide_template", "value": "" },
+      { "id": 1758700, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758701, "key": "receipt_uplaoded_attachment_id", "value": "58847" },
+      { "id": 1758702, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758703, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93693,
+        "name": "Batik Lukis Moden Crepe - LZ 14 - 4M",
+        "product_id": 21465,
+        "variation_id": 21466,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "149.00",
+        "subtotal_tax": "0.00",
+        "total": "149.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846595, "key": "pa_meter", "value": "4-m", "display_key": "Meter", "display_value": "4M" },
+          {
+            "id": 846596,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 149,
+        "parent_name": "Batik Lukis Moden Crepe - LZ 14"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93694,
+        "method_title": "Shipping",
+        "method_id": "other",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846602,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T04:30:00",
+    "date_modified_gmt": "2022-09-08T04:34:03",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 13805,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "sales_agent",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58846" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58845,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T12:14:58",
+    "date_modified": "2022-09-08T12:16:11",
+    "discount_total": "22.35",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "136.65",
+    "total_tax": "0.00",
+    "customer_id": 284,
+    "order_key": "wc_order_hYKhfxlNbvSyP",
+    "billing": {
+      "first_name": "rakiah",
+      "last_name": "yusof",
+      "company": "",
+      "address_1": "36, jalan mawar 8a,taman mawar,",
+      "address_2": "bbst,",
+      "city": "sepang",
+      "state": "SGR",
+      "postcode": "43900",
+      "country": "MY",
+      "email": "ROSNAZAKUAN@GMAIL.COm",
+      "phone": "0123030049"
+    },
+    "shipping": {
+      "first_name": "rakiah",
+      "last_name": "yusof",
+      "company": "",
+      "address_1": "36, jalan mawar 8a,taman mawar,",
+      "address_2": "bbst,",
+      "city": "sepang",
+      "state": "SGR",
+      "postcode": "43900",
+      "country": "MY"
+    },
+    "payment_method": "billplz",
+    "payment_method_title": "Billplz",
+    "transaction_id": "avqq4qoa",
+    "customer_ip_address": "115.164.222.48",
+    "customer_user_agent": "Mozilla/5.0 (Linux; Android 11; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "urgent - customer nak sebelum selasa (13/9/2022)",
+    "date_completed": null,
+    "date_paid": "2022-09-08T12:16:11",
+    "cart_hash": "6bffbf53d0104df135e464eef74e6d3e",
+    "number": "58845",
+    "meta_data": [
+      { "id": 1758648, "key": "is_vat_exempt", "value": "no" },
+      { "id": 1758649, "key": "wcb2bsa_sales_agent", "value": "8779" },
+      { "id": 1758650, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758651, "key": "wcb2bsa_created_by", "value": "customer" }
+    ],
+    "line_items": [
+      {
+        "id": 93690,
+        "name": "Batik Lukis Moden Crepe - LZ 08 - 4M",
+        "product_id": 21432,
+        "variation_id": 21433,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "149.00",
+        "subtotal_tax": "0.00",
+        "total": "126.65",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846572, "key": "pa_meter", "value": "4-m", "display_key": "Meter", "display_value": "4M" },
+          {
+            "id": 846573,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846585, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 126.65,
+        "parent_name": "Batik Lukis Moden Crepe - LZ 08"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93691,
+        "method_title": "J&amp;T - Semenanjung",
+        "method_id": "alg_wc_shipping",
+        "instance_id": "5",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846579,
+            "key": "Items",
+            "value": "Batik Lukis Moden Crepe - LZ 08 - 4M &times; 1",
+            "display_key": "Items",
+            "display_value": "Batik Lukis Moden Crepe - LZ 08 - 4M &times; 1"
+          },
+          {
+            "id": 846580,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [
+      {
+        "id": 93692,
+        "code": "crepe15",
+        "discount": "22.35",
+        "discount_tax": "0",
+        "meta_data": [
+          {
+            "id": 846583,
+            "key": "coupon_data",
+            "value": {
+              "id": 22290,
+              "code": "crepe15",
+              "amount": "15",
+              "date_created": { "date": "2021-07-01 02:25:50.000000", "timezone_type": 1, "timezone": "+00:00" },
+              "date_modified": { "date": "2022-02-05 03:20:18.000000", "timezone_type": 1, "timezone": "+00:00" },
+              "date_expires": null,
+              "discount_type": "percent",
+              "description": "",
+              "usage_count": 25,
+              "individual_use": false,
+              "product_ids": [],
+              "excluded_product_ids": [],
+              "usage_limit": 0,
+              "usage_limit_per_user": 0,
+              "limit_usage_to_x_items": null,
+              "free_shipping": false,
+              "product_categories": [138, 133, 150, 148, 152],
+              "excluded_product_categories": [],
+              "exclude_sale_items": false,
+              "minimum_amount": "",
+              "maximum_amount": "",
+              "email_restrictions": [],
+              "virtual": false,
+              "meta_data": [
+                { "id": 695860, "key": "sa_cbl_locations_lookup_in", "value": { "address": "billing" } },
+                { "id": 695863, "key": "wc_coupon_message", "value": "" },
+                { "id": 695864, "key": "wc_email_message", "value": "no" },
+                { "id": 695876, "key": "_wcb2bsa_coupon_sales_agents", "value": ["14", "8779"] },
+                { "id": 695877, "key": "slide_template", "value": "" },
+                { "id": 695878, "key": "rs_page_bg_color", "value": "" },
+                { "id": 695879, "key": "sc_restrict_to_new_user", "value": "no" },
+                { "id": 695880, "key": "auto_generate_coupon", "value": "no" },
+                { "id": 695881, "key": "coupon_title_prefix", "value": "" },
+                { "id": 695882, "key": "coupon_title_suffix", "value": "" },
+                { "id": 695883, "key": "sc_coupon_validity", "value": "" },
+                { "id": 695884, "key": "validity_suffix", "value": "days" },
+                { "id": 695885, "key": "sc_is_visible_storewide", "value": "no" },
+                { "id": 695886, "key": "sc_disable_email_restriction", "value": "no" },
+                { "id": 695887, "key": "is_pick_price_of_product", "value": "no" },
+                { "id": 695888, "key": "wc_sc_add_product_details", "value": [] },
+                { "id": 695889, "key": "wc_sc_max_discount", "value": "" },
+                { "id": 695890, "key": "wc_sc_expiry_time", "value": "" },
+                { "id": 695891, "key": "wc_sc_auto_apply_coupon", "value": "no" },
+                { "id": 695892, "key": "sa_cbl_billing_locations", "value": [] },
+                { "id": 695893, "key": "wc_sc_payment_method_ids", "value": [] },
+                { "id": 695894, "key": "wc_sc_shipping_method_ids", "value": [] },
+                { "id": 695895, "key": "wc_sc_user_role_ids", "value": [] },
+                { "id": 695896, "key": "wc_sc_exclude_user_role_ids", "value": [] },
+                { "id": 695897, "key": "wc_sc_product_attribute_ids", "value": "" },
+                { "id": 695898, "key": "wc_sc_exclude_product_attribute_ids", "value": "" },
+                { "id": 695899, "key": "wc_sc_taxonomy_restrictions", "value": [] }
+              ]
+            },
+            "display_key": "coupon_data",
+            "display_value": {
+              "id": 22290,
+              "code": "crepe15",
+              "amount": "15",
+              "date_created": { "date": "2021-07-01 02:25:50.000000", "timezone_type": 1, "timezone": "+00:00" },
+              "date_modified": { "date": "2022-02-05 03:20:18.000000", "timezone_type": 1, "timezone": "+00:00" },
+              "date_expires": null,
+              "discount_type": "percent",
+              "description": "",
+              "usage_count": 25,
+              "individual_use": false,
+              "product_ids": [],
+              "excluded_product_ids": [],
+              "usage_limit": 0,
+              "usage_limit_per_user": 0,
+              "limit_usage_to_x_items": null,
+              "free_shipping": false,
+              "product_categories": [138, 133, 150, 148, 152],
+              "excluded_product_categories": [],
+              "exclude_sale_items": false,
+              "minimum_amount": "",
+              "maximum_amount": "",
+              "email_restrictions": [],
+              "virtual": false,
+              "meta_data": [
+                { "id": 695860, "key": "sa_cbl_locations_lookup_in", "value": { "address": "billing" } },
+                { "id": 695863, "key": "wc_coupon_message", "value": "" },
+                { "id": 695864, "key": "wc_email_message", "value": "no" },
+                { "id": 695876, "key": "_wcb2bsa_coupon_sales_agents", "value": ["14", "8779"] },
+                { "id": 695877, "key": "slide_template", "value": "" },
+                { "id": 695878, "key": "rs_page_bg_color", "value": "" },
+                { "id": 695879, "key": "sc_restrict_to_new_user", "value": "no" },
+                { "id": 695880, "key": "auto_generate_coupon", "value": "no" },
+                { "id": 695881, "key": "coupon_title_prefix", "value": "" },
+                { "id": 695882, "key": "coupon_title_suffix", "value": "" },
+                { "id": 695883, "key": "sc_coupon_validity", "value": "" },
+                { "id": 695884, "key": "validity_suffix", "value": "days" },
+                { "id": 695885, "key": "sc_is_visible_storewide", "value": "no" },
+                { "id": 695886, "key": "sc_disable_email_restriction", "value": "no" },
+                { "id": 695887, "key": "is_pick_price_of_product", "value": "no" },
+                { "id": 695888, "key": "wc_sc_add_product_details", "value": [] },
+                { "id": 695889, "key": "wc_sc_max_discount", "value": "" },
+                { "id": 695890, "key": "wc_sc_expiry_time", "value": "" },
+                { "id": 695891, "key": "wc_sc_auto_apply_coupon", "value": "no" },
+                { "id": 695892, "key": "sa_cbl_billing_locations", "value": [] },
+                { "id": 695893, "key": "wc_sc_payment_method_ids", "value": [] },
+                { "id": 695894, "key": "wc_sc_shipping_method_ids", "value": [] },
+                { "id": 695895, "key": "wc_sc_user_role_ids", "value": [] },
+                { "id": 695896, "key": "wc_sc_exclude_user_role_ids", "value": [] },
+                { "id": 695897, "key": "wc_sc_product_attribute_ids", "value": "" },
+                { "id": 695898, "key": "wc_sc_exclude_product_attribute_ids", "value": "" },
+                { "id": 695899, "key": "wc_sc_taxonomy_restrictions", "value": [] }
+              ]
+            }
+          },
+          {
+            "id": 846584,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T04:14:58",
+    "date_modified_gmt": "2022-09-08T04:16:11",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2022-09-08T04:16:11",
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 8779,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "customer",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58845" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }],
+      "customer": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/customers/284" }]
+    }
+  },
+  {
+    "id": 58838,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T10:54:33",
+    "date_modified": "2022-09-08T11:19:06",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "98.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_jSMOTDRW8oKCL",
+    "billing": {
+      "first_name": "Salasiyah",
+      "last_name": "Bt Abd Wahab",
+      "company": "",
+      "address_1": "2433- A Jln. SK. Padang Midin",
+      "address_2": "21400 Kuala Terengganu Terengganu",
+      "city": "Kuala Terengganu",
+      "state": "TRG",
+      "postcode": "21400",
+      "country": "MY",
+      "email": "salasiyahabd.wahab@yahoo.com",
+      "phone": "011 32732035"
+    },
+    "shipping": {
+      "first_name": "Salasiyah",
+      "last_name": "Bt Abd Wahab",
+      "company": "",
+      "address_1": "2433- A Jln. SK. Padang Midin",
+      "address_2": "21400 Kuala Terengganu Terengganu",
+      "city": "Kuala Terengganu",
+      "state": "TRG",
+      "postcode": "21400",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "CUST NAK CEPAT",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58838",
+    "meta_data": [
+      { "id": 1758513, "key": "wcb2bsa_sales_agent", "value": "19438" },
+      { "id": 1758514, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758515, "key": "wcb2bsa_created_by", "value": "sales_agent" },
+      { "id": 1758538, "key": "slide_template", "value": "" },
+      { "id": 1758539, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758540, "key": "receipt_uplaoded_attachment_id", "value": "58840" },
+      { "id": 1758541, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758542, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93683,
+        "name": "Alana - 012/D9/2# Gold - 2XL",
+        "product_id": 46706,
+        "variation_id": 46710,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "88.00",
+        "subtotal_tax": "0.00",
+        "total": "88.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846511, "key": "pa_sizes", "value": "2xl", "display_key": "sizes", "display_value": "2XL" },
+          {
+            "id": 846512,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 88,
+        "parent_name": "Alana - 012/D9/2# Gold"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93684,
+        "method_title": "Shipping",
+        "method_id": "other",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846518,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T02:54:33",
+    "date_modified_gmt": "2022-09-08T03:19:06",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 19438,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "sales_agent",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58838" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58836,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T10:49:58",
+    "date_modified": "2022-09-08T10:54:30",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "98.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_4aUA6ncXMoqAN",
+    "billing": {
+      "first_name": "Masitah",
+      "last_name": "Ismail",
+      "company": "",
+      "address_1": "Lot 4740, Lorong menanti 3",
+      "address_2": "Batu 9, sungai tengi kiri",
+      "city": "Tanjong karang",
+      "state": "SGR",
+      "postcode": "45500",
+      "country": "MY",
+      "email": "Nhana312@gmail.com",
+      "phone": "0178917091"
+    },
+    "shipping": {
+      "first_name": "Masitah",
+      "last_name": "Ismail",
+      "company": "",
+      "address_1": "Lot 4740, Lorong menanti 3",
+      "address_2": "Batu 9, sungai tengi kiri",
+      "city": "Tanjong karang",
+      "state": "SGR",
+      "postcode": "45500",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "Customer nak pakai pada 14/9, baju nak sampai 13/9",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58836",
+    "meta_data": [
+      { "id": 1758466, "key": "wcb2bsa_sales_agent", "value": "18627" },
+      { "id": 1758467, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758468, "key": "wcb2bsa_created_by", "value": "sales_agent" },
+      { "id": 1758491, "key": "slide_template", "value": "" },
+      { "id": 1758492, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758493, "key": "receipt_uplaoded_attachment_id", "value": "58834" },
+      { "id": 1758494, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758495, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93681,
+        "name": "Alana - 012/D6/4# Sea Sand - XL",
+        "product_id": 46588,
+        "variation_id": 46593,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "88.00",
+        "subtotal_tax": "0.00",
+        "total": "88.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846474, "key": "pa_sizes", "value": "xl", "display_key": "sizes", "display_value": "XL" },
+          {
+            "id": 846475,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 88,
+        "parent_name": "Alana - 012/D6/4# Sea Sand"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93682,
+        "method_title": "Shipping",
+        "method_id": "",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846497,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T02:49:58",
+    "date_modified_gmt": "2022-09-08T02:54:30",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 18627,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "sales_agent",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58836" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58832,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T10:26:24",
+    "date_modified": "2022-09-08T10:28:30",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "160.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_R6y8li3S7Wcd6",
+    "billing": {
+      "first_name": "Izlin Zuriani",
+      "last_name": "Ishak",
+      "company": "Politeknik Seberang Perai",
+      "address_1": "JABATAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI, POLITEKNIK SEBERANG PERAI",
+      "address_2": "JALAN PERMATANG PAUH",
+      "city": "PERMATANG PAUH",
+      "state": "PNG",
+      "postcode": "13500",
+      "country": "MY",
+      "email": "izlinzuriani@psp.edu.my",
+      "phone": "0195733478"
+    },
+    "shipping": {
+      "first_name": "Izlin Zuriani",
+      "last_name": "Ishak",
+      "company": "Politeknik Seberang Perai",
+      "address_1": "JABATAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI, POLITEKNIK SEBERANG PERAI",
+      "address_2": "JALAN PERMATANG PAUH",
+      "city": "PERMATANG PAUH",
+      "state": "PNG",
+      "postcode": "13500",
+      "country": "MY"
+    },
+    "payment_method": "billplz",
+    "payment_method_title": "Billplz",
+    "transaction_id": "ommyjsaj",
+    "customer_ip_address": "122.129.123.164",
+    "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2022-09-08T10:28:30",
+    "cart_hash": "4d2bb752c31d791f6eca101bf87747ae",
+    "number": "58832",
+    "meta_data": [
+      { "id": 1758331, "key": "is_vat_exempt", "value": "no" },
+      { "id": 1758332, "key": "wcb2bsa_sales_agent", "value": "0" },
+      { "id": 1758333, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758334, "key": "wcb2bsa_created_by", "value": "customer" }
+    ],
+    "line_items": [
+      {
+        "id": 93678,
+        "name": "Alana - 012/D11/2# Royal Blue - XL",
+        "product_id": 46797,
+        "variation_id": 46802,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846441, "key": "pa_sizes", "value": "xl", "display_key": "sizes", "display_value": "XL" },
+          {
+            "id": 846442,
+            "key": "_advanced_woo_discount_item_total_discount",
+            "value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "8282bb72e8e011c7d31eed3c42e4c4aa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46802,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            },
+            "display_key": "_advanced_woo_discount_item_total_discount",
+            "display_value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "8282bb72e8e011c7d31eed3c42e4c4aa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46802,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            }
+          },
+          {
+            "id": 846443,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846463, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 75.0024,
+        "parent_name": "Alana - 012/D11/2# Royal Blue"
+      },
+      {
+        "id": 93679,
+        "name": "Alana - 012/D12/4# Dark Olive - M",
+        "product_id": 46861,
+        "variation_id": 46867,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846453, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846454,
+            "key": "_advanced_woo_discount_item_total_discount",
+            "value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "8282bb72e8e011c7d31eed3c42e4c4aa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                },
+                "28ac9bba7af2202acba25b179a6f3b54": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46867,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            },
+            "display_key": "_advanced_woo_discount_item_total_discount",
+            "display_value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "8282bb72e8e011c7d31eed3c42e4c4aa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                },
+                "28ac9bba7af2202acba25b179a6f3b54": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46867,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            }
+          },
+          {
+            "id": 846455,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846464, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 75.0024,
+        "parent_name": "Alana - 012/D12/4# Dark Olive"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93680,
+        "method_title": "J&amp;T - Semenanjung",
+        "method_id": "alg_wc_shipping",
+        "instance_id": "5",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846461,
+            "key": "Items",
+            "value": "Alana - 012/D11/2# Royal Blue - XL &times; 1, Alana - 012/D12/4# Dark Olive - M &times; 1",
+            "display_key": "Items",
+            "display_value": "Alana - 012/D11/2# Royal Blue - XL &times; 1, Alana - 012/D12/4# Dark Olive - M &times; 1"
+          },
+          {
+            "id": 846462,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T02:26:24",
+    "date_modified_gmt": "2022-09-08T02:28:30",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2022-09-08T02:28:30",
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 0,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "customer",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58832" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58830,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T09:59:21",
+    "date_modified": "2022-09-08T11:39:21",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "98.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_AiWSmIRzMQscH",
+    "billing": {
+      "first_name": "Laila Rabaah",
+      "last_name": "Ahmad Suhaimi",
+      "company": "",
+      "address_1": "no.127, Jln P8 E/1,",
+      "address_2": "Presint 8,",
+      "city": "PUTRAJAYA",
+      "state": "PJY",
+      "postcode": "62250",
+      "country": "MY",
+      "email": "",
+      "phone": "0193732254"
+    },
+    "shipping": {
+      "first_name": "HABSAH",
+      "last_name": "BINTI SHAHIDAN",
+      "company": "",
+      "address_1": "NO 68, LORONG 5,",
+      "address_2": "TAMAN SERI MAHKOTA AMAN, JALAN GAMBANG,",
+      "city": "KUANTAN",
+      "state": "PHG",
+      "postcode": "26070",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "PAYMENT ATAS NAMA : Laila Rabaah Ahmad Suhaimi\r\n",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58830",
+    "meta_data": [
+      { "id": 1758562, "key": "wcb2bsa_sales_agent", "value": "13798" },
+      { "id": 1758563, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758564, "key": "wcb2bsa_created_by", "value": "admin" },
+      { "id": 1758598, "key": "slide_template", "value": "" },
+      { "id": 1758599, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758600, "key": "receipt_uplaoded_attachment_id", "value": "58843" },
+      { "id": 1758601, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758602, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93688,
+        "name": "Alana - 012/D9/4# Dusty Salmon - M",
+        "product_id": 46724,
+        "variation_id": 46730,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "88.00",
+        "subtotal_tax": "0.00",
+        "total": "88.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846555, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846556,
+            "key": "wcb2bsa_item_commission",
+            "value": "0",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": "0"
+          }
+        ],
+        "sku": "",
+        "price": 88,
+        "parent_name": "Alana - 012/D9/4# Dusty Salmon"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93689,
+        "method_title": "Shipping",
+        "method_id": "other",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846562,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T01:59:21",
+    "date_modified_gmt": "2022-09-08T03:39:21",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 13798,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "admin",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58830" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58827,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T09:44:31",
+    "date_modified": "2022-09-08T09:57:56",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "98.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_3AMjs8dtskXtz",
+    "billing": {
+      "first_name": "sharifah",
+      "last_name": "nurfaziera",
+      "company": "",
+      "address_1": "Lot 674, kampung serandu",
+      "address_2": "pekan",
+      "city": "pahang",
+      "state": "PHG",
+      "postcode": "26600",
+      "country": "MY",
+      "email": "iesha.glimmer@gmail.com",
+      "phone": "01139196861"
+    },
+    "shipping": {
+      "first_name": "sharifah",
+      "last_name": "nurfaziera",
+      "company": "",
+      "address_1": "Lot 674, kampung serandu",
+      "address_2": "pekan",
+      "city": "pahang",
+      "state": "PHG",
+      "postcode": "26600",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58827",
+    "meta_data": [
+      { "id": 1758261, "key": "wcb2bsa_sales_agent", "value": "19617" },
+      { "id": 1758262, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758263, "key": "wcb2bsa_created_by", "value": "sales_agent" },
+      { "id": 1758286, "key": "slide_template", "value": "" },
+      { "id": 1758287, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758288, "key": "receipt_uplaoded_attachment_id", "value": "58829" },
+      { "id": 1758289, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758290, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93676,
+        "name": "Alana - 012/D11/4# - Emerald Green - XL",
+        "product_id": 54128,
+        "variation_id": 54133,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "88.00",
+        "subtotal_tax": "0.00",
+        "total": "88.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846424, "key": "pa_sizes", "value": "xl", "display_key": "sizes", "display_value": "XL" },
+          {
+            "id": 846425,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 88,
+        "parent_name": "Alana - 012/D11/4# - Emerald Green"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93677,
+        "method_title": "Shipping",
+        "method_id": "",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846431,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T01:44:31",
+    "date_modified_gmt": "2022-09-08T01:57:56",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 19617,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "sales_agent",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58827" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58825,
+    "parent_id": 0,
+    "status": "pending",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-08T09:10:21",
+    "date_modified": "2022-09-08T09:16:23",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "160.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_ShwrjsOsLBAcC",
+    "billing": {
+      "first_name": "Tan Joce Ik",
+      "last_name": "",
+      "company": "",
+      "address_1": "SK Kangkong",
+      "address_2": "",
+      "city": "Pasir Mas",
+      "state": "KTN",
+      "postcode": "17040",
+      "country": "MY",
+      "email": "tan_joyce2003@yahoo.com",
+      "phone": "0109228353"
+    },
+    "shipping": {
+      "first_name": "Tan Joce Ik",
+      "last_name": "",
+      "company": "",
+      "address_1": "SK Kangkong",
+      "address_2": "",
+      "city": "Pasir Mas",
+      "state": "KTN",
+      "postcode": "17040",
+      "country": "MY"
+    },
+    "payment_method": "other",
+    "payment_method_title": "other",
+    "transaction_id": "",
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "created_via": "admin",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": null,
+    "cart_hash": "",
+    "number": "58825",
+    "meta_data": [
+      { "id": 1758198, "key": "wcb2bsa_sales_agent", "value": "18925" },
+      { "id": 1758199, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758200, "key": "wcb2bsa_created_by", "value": "sales_agent" },
+      { "id": 1758219, "key": "slide_template", "value": "" },
+      { "id": 1758220, "key": "rs_page_bg_color", "value": "" },
+      { "id": 1758221, "key": "receipt_uplaoded_attachment_id", "value": "58826" },
+      { "id": 1758222, "key": "receipt_upload_date_uploaded", "value": "" },
+      { "id": 1758223, "key": "receipt_upload_admin_note", "value": "" }
+    ],
+    "line_items": [
+      {
+        "id": 93673,
+        "name": "Alana - 012/D13/3# Plum - M",
+        "product_id": 46897,
+        "variation_id": 46903,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846396, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846397,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 75,
+        "parent_name": "Alana - 012/D13/3# Plum"
+      },
+      {
+        "id": 93674,
+        "name": "Alana - 012/D14/2# Sky Blue - M",
+        "product_id": 46933,
+        "variation_id": 46939,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846407, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846408,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ],
+        "sku": "",
+        "price": 75,
+        "parent_name": "Alana - 012/D14/2# Sky Blue"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93675,
+        "method_title": "Shipping",
+        "method_id": "",
+        "instance_id": "0",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846414,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-08T01:10:21",
+    "date_modified_gmt": "2022-09-08T01:16:23",
+    "date_completed_gmt": null,
+    "date_paid_gmt": null,
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 18925,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "sales_agent",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58825" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58821,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-07T22:35:17",
+    "date_modified": "2022-09-07T22:36:58",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "160.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_RQLkXjWb3vtZK",
+    "billing": {
+      "first_name": "muhammad hafiz",
+      "last_name": "ishak",
+      "company": "",
+      "address_1": "no. 116 Peringkat 6, jalan kemboja",
+      "address_2": "felda ijok 34120 selama perak",
+      "city": "selama",
+      "state": "PRK",
+      "postcode": "34120",
+      "country": "MY",
+      "email": "Shuhaidabdrazak@yahoo.com",
+      "phone": "0194325990"
+    },
+    "shipping": {
+      "first_name": "muhammad hafiz",
+      "last_name": "ishak",
+      "company": "",
+      "address_1": "no. 116 Peringkat 6, jalan kemboja",
+      "address_2": "felda ijok 34120 selama perak",
+      "city": "selama",
+      "state": "PRK",
+      "postcode": "34120",
+      "country": "MY"
+    },
+    "payment_method": "billplz",
+    "payment_method_title": "Billplz",
+    "transaction_id": "cszczuu2",
+    "customer_ip_address": "183.171.19.114",
+    "customer_user_agent": "Mozilla/5.0 (Linux; Android 11; RMX3511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 Mobile Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2022-09-07T22:36:58",
+    "cart_hash": "1f2323ba2d7ee00818001667fe73ec08",
+    "number": "58821",
+    "meta_data": [
+      { "id": 1758109, "key": "is_vat_exempt", "value": "no" },
+      { "id": 1758110, "key": "wcb2bsa_sales_agent", "value": "0" },
+      { "id": 1758111, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1758112, "key": "wcb2bsa_created_by", "value": "customer" },
+      { "id": 1758146, "key": "jtawb", "value": "630737951712" },
+      { "id": 1758147, "key": "jtorder", "value": "2209080115058821" },
+      { "id": 1758148, "key": "jtcode", "value": "PRK-PRK310" }
+    ],
+    "line_items": [
+      {
+        "id": 93667,
+        "name": "Alana - 012/D13/5# Dark Blue - M",
+        "product_id": 46915,
+        "variation_id": 46921,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846334, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846335,
+            "key": "_advanced_woo_discount_item_total_discount",
+            "value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "c0e29abd006531c07a5954a7db06ffaa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46921,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            },
+            "display_key": "_advanced_woo_discount_item_total_discount",
+            "display_value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "c0e29abd006531c07a5954a7db06ffaa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 46921,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            }
+          },
+          {
+            "id": 846336,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846356, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 75.0024,
+        "parent_name": "Alana - 012/D13/5# Dark Blue"
+      },
+      {
+        "id": 93668,
+        "name": "Alana - 012/D15/5# Fuchsia - M",
+        "product_id": 47005,
+        "variation_id": 47011,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "75.00",
+        "subtotal_tax": "0.00",
+        "total": "75.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846346, "key": "pa_sizes", "value": "m", "display_key": "sizes", "display_value": "M" },
+          {
+            "id": 846347,
+            "key": "_advanced_woo_discount_item_total_discount",
+            "value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "c0e29abd006531c07a5954a7db06ffaa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                },
+                "ff89f46834c9a667ce89a02f33c5bc81": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 47011,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            },
+            "display_key": "_advanced_woo_discount_item_total_discount",
+            "display_value": {
+              "initial_price": 88,
+              "discounted_price": 75.0024,
+              "total_discount_details": {
+                "c0e29abd006531c07a5954a7db06ffaa": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                },
+                "ff89f46834c9a667ce89a02f33c5bc81": {
+                  "12": {
+                    "set_discount": 0,
+                    "bulk_discount": {
+                      "discount_type": "percentage",
+                      "discount_value": "14.77",
+                      "discount_quantity": 1,
+                      "discount_price_per_quantity": 12.9976,
+                      "discount_price": 12.9976
+                    },
+                    "simple_discount": 0
+                  }
+                }
+              },
+              "cart_discount_details": [],
+              "apply_as_cart_rule": ["no"],
+              "discount_lines": {
+                "0": { "quantity": 1, "discount": 12.9976, "original_price": 88, "discounted_price": 75.0024 },
+                "non_applied": { "quantity": 0, "discount": 0, "price": 88, "calculate_discount_from": 88 }
+              },
+              "cart_quantity": 1,
+              "product_id": 47011,
+              "initial_price_based_on_tax_settings": 88,
+              "discounted_price_based_on_tax_settings": 75.0024
+            }
+          },
+          {
+            "id": 846348,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846357, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 75.0024,
+        "parent_name": "Alana - 012/D15/5# Fuchsia"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93669,
+        "method_title": "J&amp;T - Semenanjung",
+        "method_id": "alg_wc_shipping",
+        "instance_id": "5",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846354,
+            "key": "Items",
+            "value": "Alana - 012/D13/5# Dark Blue - M &times; 1, Alana - 012/D15/5# Fuchsia - M &times; 1",
+            "display_key": "Items",
+            "display_value": "Alana - 012/D13/5# Dark Blue - M &times; 1, Alana - 012/D15/5# Fuchsia - M &times; 1"
+          },
+          {
+            "id": 846355,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-07T14:35:17",
+    "date_modified_gmt": "2022-09-07T14:36:58",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2022-09-07T14:36:58",
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 0,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "customer",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58821" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }]
+    }
+  },
+  {
+    "id": 58816,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "MYR",
+    "version": "4.9.0",
+    "prices_include_tax": false,
+    "date_created": "2022-09-07T19:19:56",
+    "date_modified": "2022-09-07T19:21:19",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "10.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "98.00",
+    "total_tax": "0.00",
+    "customer_id": 19840,
+    "order_key": "wc_order_dGkql6R3gdKsj",
+    "billing": {
+      "first_name": "ALYANA",
+      "last_name": "AZMIERA",
+      "company": "",
+      "address_1": "NO 312,BLOK 1,NIBONG,PANGSAPURI RIMAU INDAH,",
+      "address_2": "JALAN SUNGAI GOMBAK,SEKSYEN32,32/67",
+      "city": "SHAH ALAM",
+      "state": "SGR",
+      "postcode": "40460",
+      "country": "MY",
+      "email": "alyanaazmieraa@gmail.com",
+      "phone": "6279344"
+    },
+    "shipping": {
+      "first_name": "ALYANA",
+      "last_name": "AZMIERA",
+      "company": "",
+      "address_1": "NO 312,BLOK 1,NIBONG,PANGSAPURI RIMAU INDAH,",
+      "address_2": "JALAN SUNGAI GOMBAK,SEKSYEN32,32/67",
+      "city": "SHAH ALAM",
+      "state": "SGR",
+      "postcode": "40460",
+      "country": "MY"
+    },
+    "payment_method": "billplz",
+    "payment_method_title": "Billplz",
+    "transaction_id": "ltgedqaz",
+    "customer_ip_address": "175.145.214.68",
+    "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2022-09-07T19:21:19",
+    "cart_hash": "7131aadc819469ea0222ae93e937fbc6",
+    "number": "58816",
+    "meta_data": [
+      { "id": 1757989, "key": "is_vat_exempt", "value": "no" },
+      { "id": 1757990, "key": "wcb2bsa_sales_agent", "value": "" },
+      { "id": 1757991, "key": "wcb2bsa_order_item_types_eligible_for_commission", "value": { "line_item": "1" } },
+      { "id": 1757992, "key": "wcb2bsa_created_by", "value": "customer" },
+      { "id": 1758149, "key": "jtawb", "value": "630737951738" },
+      { "id": 1758150, "key": "jtorder", "value": "2209080115058816" },
+      { "id": 1758151, "key": "jtcode", "value": "PJS(3)-PJS306" }
+    ],
+    "line_items": [
+      {
+        "id": 93663,
+        "name": "Kemeja Batik Dm - 021/E2/4# - Maroon - XL",
+        "product_id": 53215,
+        "variation_id": 53219,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "88.00",
+        "subtotal_tax": "0.00",
+        "total": "88.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          { "id": 846297, "key": "pa_sizes", "value": "xl", "display_key": "sizes", "display_value": "XL" },
+          {
+            "id": 846298,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          },
+          { "id": 846306, "key": "_reduced_stock", "value": "1", "display_key": "_reduced_stock", "display_value": "1" }
+        ],
+        "sku": "",
+        "price": 88,
+        "parent_name": "Kemeja Batik Dm - 021/E2/4# - Maroon"
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [
+      {
+        "id": 93664,
+        "method_title": "J&amp;T - Semenanjung",
+        "method_id": "alg_wc_shipping",
+        "instance_id": "5",
+        "total": "10.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 846304,
+            "key": "Items",
+            "value": "Kemeja Batik Dm - 021/E2/4# - Maroon - XL &times; 1",
+            "display_key": "Items",
+            "display_value": "Kemeja Batik Dm - 021/E2/4# - Maroon - XL &times; 1"
+          },
+          {
+            "id": 846305,
+            "key": "wcb2bsa_item_commission",
+            "value": "",
+            "display_key": "wcb2bsa_item_commission",
+            "display_value": ""
+          }
+        ]
+      }
+    ],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "date_created_gmt": "2022-09-07T11:19:56",
+    "date_modified_gmt": "2022-09-07T11:21:19",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2022-09-07T11:21:19",
+    "currency_symbol": "RM",
+    "wcb2bsa_sales_agent": 0,
+    "wcb2bsa_order_item_types_eligible_for_commission": { "line_item": "1" },
+    "wcb2bsa_created_by": "customer",
+    "_links": {
+      "self": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders/58816" }],
+      "collection": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/orders" }],
+      "customer": [{ "href": "https://desamurnibatik.my/wp-json/wc/v3/customers/19840" }]
+    }
+  }
+]

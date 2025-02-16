@@ -1,0 +1,24 @@
+{
+    "name": "@hopstack-inc/dpd",
+    "description": "",
+    "version": "1.0.1-beta.0",
+    "main": "dist/index.js",
+    "publishConfig": {
+        "directory": ".",
+        "registry": "https://npm.pkg.github.com/@hopstack-inc",
+        "scope": "@hopstack-inc"
+    },
+    "repository": {
+        "url": "https://github.com/hopstack-inc/platform_integrations-provider-pkg"
+    },
+    "scripts": {
+        "build": "npm run clean && babel -d ./dist src -s",
+        "clean": "rimraf dist",
+        "start": "cd dist && node index.js",
+        "env": "ln -s ../../.env.template .env",
+        "npmrc": "ln -s ../../.npmrc.template .npmrc"
+    },
+    "keywords": [],
+    "author": "hopstack-team",
+    "license": "ISC"
+}

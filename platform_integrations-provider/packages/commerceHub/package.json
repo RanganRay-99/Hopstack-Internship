@@ -1,0 +1,31 @@
+{
+    "name": "@hopstack-inc/commercehub",
+    "description": "sFTP APIs for commerceHub Integrations",
+    "version": "0.0.1-beta.0",
+    "main": "dist/index.js",
+    "publishConfig": {
+        "directory": ".",
+        "registry": "https://npm.pkg.github.com/@hopstack-inc",
+        "scope": "@hopstack-inc"
+    },
+    "repository": {
+        "url": "https://github.com/hopstack-inc/platform_integrations-provider-pkg"
+    },
+    "scripts": {
+        "build": "npm run clean && babel -d ./dist src -s",
+        "clean": "rimraf dist",
+        "start": "cd dist && node index.js",
+        "env": "ln -s ../../.env.template .env",
+        "npmrc": "ln -s ../../.npmrc.template .npmrc",
+        "test": "jest"
+    },
+    "dependencies": {
+        "moment": "^2.29.4",
+        "ssh2-sftp-client": "^9.1.0",
+        "xlsx": "^0.18.5",
+        "xml2js": "^0.6.0"
+    },
+    "keywords": [],
+    "author": "hopstack-team",
+    "license": "ISC"
+}

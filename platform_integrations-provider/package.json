@@ -1,0 +1,44 @@
+{
+  "name": "hopstack-integrations-provider",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "lerna run build",
+    "build:amazonfba": "lerna exec --scope @hopstack-inc/amazon-fba yarn run build",
+    "build:ebay": "lerna exec --scope @hopstack-inc/ebay yarn run build",
+    "dev:base": "lerna exec --scope @hopstack-inc/integrations-base yarn run dev",
+    "dev": "yarn run build:amazonfba && yarn run dev:base",
+    "setup:env": "lerna exec yarn run env",
+    "setup:npmrc": "lerna exec yarn run npmrc",
+    "create:env": "cp .env.template .env",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "@types/jest": "^29.5.2",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "babel-watch": "^7.7.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-security": "^1.4.0",
+    "jest": "^29.5.0",
+    "lerna": "^4.0.0",
+    "lerna-templater": "^1.4.3",
+    "lint-staged": "^12.3.7",
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": ">=16",
+    "npm": "use yarn!",
+    "yarn": ">= 1.0.0"
+  }
+}

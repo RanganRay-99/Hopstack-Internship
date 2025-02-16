@@ -1,0 +1,23 @@
+const { getSellingPartnerAPI } = require('@/utils')
+
+const cancelShipment = async (params) => {
+  try {
+    const { token, clientID, clientSecret, shipmentId, region } = params
+    let sellingPartner = getSellingPartnerAPI(token, clientID, clientSecret, region)
+    let response = await sellingPartner.callAPI({
+      operation: 'cancelShipment',
+      endpoint: 'merchantFulfillment',
+      path: {
+        shipmentId,
+      },
+      options: {
+        version: 'v0',
+      },
+    })
+    return response
+  } catch (err) {
+    return err
+  }
+}
+
+module.exports = cancelShipment

@@ -1,0 +1,26 @@
+const axios = require('axios').default
+const config = require('@/config/config')
+
+let SHOPIFY_BASEURL = config.SHOPIFY_BASEURL
+
+const getFulfillmentOrders = async (params) => {
+  try {
+    const { apiUrl, orderId } = params
+    SHOPIFY_BASEURL = apiUrl || SHOPIFY_BASEURL
+
+    let axiosConfig = {
+      method: 'GET',
+      url: `${SHOPIFY_BASEURL}/orders/${orderId}/fulfillment_orders.json`,
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    }
+    
+    const response = await axios(axiosConfig)
+    return response.data
+  } catch (err) {
+    return err
+  }
+}
+
+module.exports = getFulfillmentOrders

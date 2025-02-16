@@ -1,0 +1,28 @@
+{
+  "name": "@hopstack-inc/ups",
+  "version": "1.1.0-beta.4",
+  "description": "",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "directory": ".",
+    "registry": "https://npm.pkg.github.com/@hopstack-inc",
+    "scope": "@hopstack-inc"
+  },
+  "repository": {
+    "url": "https://github.com/hopstack-inc/platform_integrations-provider-pkg"
+  },
+  "scripts": {
+    "build": "npm run clean && babel -d ./dist src -s",
+    "clean": "rimraf dist",
+    "start": "cd dist && node index.js",
+    "env": "ln -s ../../.env ."
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1119.0",
+    "axios": "^0.26.1",
+    "canvas": "^2.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
